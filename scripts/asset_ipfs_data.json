@@ -1,0 +1,2791 @@
+[
+  {
+    "asset": {
+      "id": 1,
+      "name": "Abyss Herald - Wicked Torrents",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Abyss Herald - Wicked Torrents.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmexGTozh9rqLCVnmSgb5V3mRVKRPmGTbDLcn8KXFSd1Ef"
+  },
+  {
+    "asset": {
+      "id": 2,
+      "name": "Abyss Lector - Fathomless Flames",
+      "rarity": 3,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Abyss Lector - Fathomless Flames.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmUEtmNktrfDmM6o1nXCriYSuLsmD6BeFsTfaWahjXUWFv"
+  },
+  {
+    "asset": {
+      "id": 3,
+      "name": "Albedo",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Albedo.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYJQykkcaQYF9rwzb87AreA4zuZFC3svstiLQskRbtxeE"
+  },
+  {
+    "asset": {
+      "id": 4,
+      "name": "Alhaitham",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Alhaitham.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmUwriYhXdmjTfzR4rNqhpdMMBgASqWt1hsEfHrgu9SK5e"
+  },
+  {
+    "asset": {
+      "id": 5,
+      "name": "All-Devouring Narwhal",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "All-Devouring Narwhal.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmRUY7qDHminTVk1cZNB76idjDUvaMJMkuauT8eLXPT5T6"
+  },
+  {
+    "asset": {
+      "id": 6,
+      "name": "Amber",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Amber.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmfJ3nGvDW9LkbSXMFbKh9BbVT9fmS2Ly8XsvqQcJ4K6H5"
+  },
+  {
+    "asset": {
+      "id": 7,
+      "name": "Arataki Itto",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Inazuma",
+      "image": "Arataki Itto.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmVRBWiiE7FHF6PGhHwYZVwk48j4gFyifcsBCao2BYAJN8"
+  },
+  {
+    "asset": {
+      "id": 8,
+      "name": "Azhdaha",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Azhdaha.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qmcp5WW34SzGHewPTu35cBkw4LxQEijKDp4uDd5xEEqGdf"
+  },
+  {
+    "asset": {
+      "id": 9,
+      "name": "Baizhu",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Baizhu.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmcK5GwaPi64tW4JGhmjju4pbU9qybVfC8F89XYXtPB7Bj"
+  },
+  {
+    "asset": {
+      "id": 10,
+      "name": "Barbara",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Barbara.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmeL3TTguBn4mrMmxBiBFHVzgSm3F7hiNapeRNiBpeW1rR"
+  },
+  {
+    "asset": {
+      "id": 11,
+      "name": "Barbara Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Barbara_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmQTR9XXcshUXJpj3NUfF5mFWerW8z3YW8CstT8UzoSK4V"
+  },
+  {
+    "asset": {
+      "id": 12,
+      "name": "Beidou",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Beidou.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYm4C4qiaY5N4qc7NwXngWaerPgPncn5XApxHFvxpDC9a"
+  },
+  {
+    "asset": {
+      "id": 13,
+      "name": "Beidou Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Beidou_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmWC3LEH2HSSBi6bPiqQpL4tBZgs3UdE4E1o9u7gnqnkkA"
+  },
+  {
+    "asset": {
+      "id": 14,
+      "name": "Bennett",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Bennett.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmbynU8x2TRqNJuVNZ8c2BvgQ3PieDLiDRJ3GApV1r6zT5"
+  },
+  {
+    "asset": {
+      "id": 15,
+      "name": "Bennett Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Bennett_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRKdEjvKtCqqRbrvbCF6pW2jAFirPm6SqYX96yVXrYzy3"
+  },
+  {
+    "asset": {
+      "id": 16,
+      "name": "Candace",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Candace.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPYUFNJjM2UTSULGkvXGp35uWrU3z1a88xqKbP5w7LKiL"
+  },
+  {
+    "asset": {
+      "id": 17,
+      "name": "Chongyun",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Chongyun.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmTyLUhBNsvfPQsPKqHbRemEuNhrx6awREwsGyQJrdhXWB"
+  },
+  {
+    "asset": {
+      "id": 18,
+      "name": "Collei",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Collei.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qme6m3xwod7FJTSM4ThfodCUQsNCHRtStXAY6sZwtXENyr"
+  },
+  {
+    "asset": {
+      "id": 19,
+      "name": "Cyno",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Cyno.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmb33JFtqWm4StWcBU6SPXjdnghiSi2CkXvMnMjU3pjQ24"
+  },
+  {
+    "asset": {
+      "id": 20,
+      "name": "Dehya",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Sumeru",
+      "image": "Dehya.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXa6h277MTPLiTSnVtfraFfqz8TS7LhqB1u1PJHGgzSqg"
+  },
+  {
+    "asset": {
+      "id": 21,
+      "name": "Diluc",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Diluc.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmbEdHTts251HF6pt331fK2tyDyhwVtCc8obPgbdbLvW84"
+  },
+  {
+    "asset": {
+      "id": 22,
+      "name": "Diluc Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Diluc_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmVCa3J5xJpQnwT7ij2owgFmYVrGyCjEMz5xG1Fswhj6H1"
+  },
+  {
+    "asset": {
+      "id": 23,
+      "name": "Diona",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Diona.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRB6S4uVFU5meepGJPVq3i6Try9Pty6XyHnfBMuy1fgx6"
+  },
+  {
+    "asset": {
+      "id": 24,
+      "name": "Candace Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Candace_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRKC6ULAcHLoPDra9aJHi4ZdbtvTtRgm5NtVEjFZPJfeg"
+  },
+  {
+    "asset": {
+      "id": 25,
+      "name": "Dori",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Sumeru",
+      "image": "Dori.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYtmuFjKgdE2XijqD6NR5Daeg6rcXcyXP7ftFWn2Sf6oM"
+  },
+  {
+    "asset": {
+      "id": 26,
+      "name": "Eula",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Eula.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmaccywLFXUvenkhc4Spf5yRG2pkuynwiSLmHkoootL6Kd"
+  },
+  {
+    "asset": {
+      "id": 27,
+      "name": "Eula Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Eula_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmSxpduA1KhukTce4po42NXf8XpJjgjSKwDLFjDV6tzVvV"
+  },
+  {
+    "asset": {
+      "id": 28,
+      "name": "Faruzan",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Faruzan.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYxkQRX98YgygV6xPaGrGp9neDSx6CJ1YaEP4HQq7voC8"
+  },
+  {
+    "asset": {
+      "id": 29,
+      "name": "Fischl",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Fischl.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmaX7n99JAYH26nLF3fXbDAcexA1C6vWrfhQzsjnngJ2BE"
+  },
+  {
+    "asset": {
+      "id": 30,
+      "name": "Fischl Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Fischl_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmfDRiGoxP1Qdo4DzYY423BUdLXjAfBTKoZBbSPqnNobHR"
+  },
+  {
+    "asset": {
+      "id": 31,
+      "name": "Ganyu",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Bow",
+      "faction": "Liyue",
+      "image": "Ganyu.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXVs8sQf3o74KQcc3uJxd3nFXjpZPThmC1EhU8ZCVq9Hi"
+  },
+  {
+    "asset": {
+      "id": 32,
+      "name": "Furina Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Fontaine",
+      "image": "Furina Dynamic Skin - Ousia.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmSKHgv1WXd1vCCoUpcE889fW2zzJjTjUtkRpXRJBZpp9S"
+  },
+  {
+    "asset": {
+      "id": 33,
+      "name": "Gorou",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Gorou.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRW65WyQbHv9nsirQgBrVUz7FfiQ1RzKCLNpWoaZkBTzj"
+  },
+  {
+    "asset": {
+      "id": 34,
+      "name": "Hu Tao",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Hu Tao.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXEp4i1VgC9W7UfT9rUUPub3xFFFv9BJS1NKVKL8zahKd"
+  },
+  {
+    "asset": {
+      "id": 35,
+      "name": "Chevreuse Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Fontaine",
+      "image": "Chevreuse_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmSRTPpo3JFHAh6ptrbcgYvsNJ727uJxhJsxZ4XguP8mdE"
+  },
+  {
+    "asset": {
+      "id": 44,
+      "name": "Jean",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Jean.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmef41JkXNBGzWL3ZgFuMzDuCqEhFfNnqTpKQ1RzhmK4eb"
+  },
+  {
+    "asset": {
+      "id": 45,
+      "name": "Jean Animated",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Jean_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmchjMbx8GeJPHUPWxmyTVJsqCjDe4brNp1L2FxpPKgUAq"
+  },
+  {
+    "asset": {
+      "id": 46,
+      "name": "Kaedehara Kazuha",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kaedehara Kazuha.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmX3DZkALswdsFctRg1s5K7WLuQ41Y5R7awfyS47eWLsT2"
+  },
+  {
+    "asset": {
+      "id": 47,
+      "name": "Kaeya",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Kaeya.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYDYRsEJwNynAnWe1DCN5ifD9GysGxvT5FqVHmjcaTs84"
+  },
+  {
+    "asset": {
+      "id": 48,
+      "name": "Kaeya Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Kaeya_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmWxNZQDod6CF4D3EErQ5s8ZNhZgWTpBAPsQghVWgKNUF6"
+  },
+  {
+    "asset": {
+      "id": 49,
+      "name": "Kamisato Ayaka",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kamisato Ayaka.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRKEY99dFc4rkGg42SqrgeX571ybVi18sUsHGMuZkB1Xt"
+  },
+  {
+    "asset": {
+      "id": 50,
+      "name": "Kamisato Ayaka Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kamisato Ayaka_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmboQ6oipRTY3WruSKiAqXWmV2CGbEC6ouagaAGk5NupxG"
+  },
+  {
+    "asset": {
+      "id": 51,
+      "name": "Kamisato Ayato",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kamisato Ayato.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmWFAam7bLyGhSKwKi4Bdvk7gsjgqr6TaDFTU4kf8GeTWB"
+  },
+  {
+    "asset": {
+      "id": 52,
+      "name": "Keqing",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Keqing.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmfMHM9M7qkT6SujAjnwnK1CFAY8Mgf6KSeUD2ZLZ3z8yg"
+  },
+  {
+    "asset": {
+      "id": 53,
+      "name": "Keqing Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Keqing_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmTjSff5JzCM2k9LqY8rF8BLExuoCH1nJJ5zVmmc5KD25Q"
+  },
+  {
+    "asset": {
+      "id": 54,
+      "name": "Klee",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Klee.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmbUqJY82jtgUHTUeDjx4qcQxmPLoaZdeJAnZ63jEHuoCG"
+  },
+  {
+    "asset": {
+      "id": 55,
+      "name": "Klee Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Klee_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmafJ22c9pLtyhMUfVF74H8pBkcXHTgg3vtWEtWA5Ppf2o"
+  },
+  {
+    "asset": {
+      "id": 56,
+      "name": "Kujou Sara",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Kujou Sara.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPV697R2hDzpyqzkknMQyfiEbh514sSsrrtUUfNgGYtgx"
+  },
+  {
+    "asset": {
+      "id": 57,
+      "name": "Kuki Shinobu",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kuki Shinobu.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmQJus9b7qjcZTmhj6Uvr4sbfoCMemgobcKbQfi8gm9htZ"
+  },
+  {
+    "asset": {
+      "id": 58,
+      "name": "La Signora",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "La Signora.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmfZfXsSegkvLJLQpxJUBKsX3VWMZuNbYjr9qMQmxo2bby"
+  },
+  {
+    "asset": {
+      "id": 59,
+      "name": "Layla",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Layla.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXMwaG1jrejJweYva9eeZViZYmnjsNybk5Tp4jgSMJ6qe"
+  },
+  {
+    "asset": {
+      "id": 60,
+      "name": "Lisa",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Lisa.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmQC96mukXGJtmW6kWxeBuy3uipyx3tqB4bNwZ31gCozcs"
+  },
+  {
+    "asset": {
+      "id": 61,
+      "name": "Freminet Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Fontaine",
+      "image": "Freminet Dynamic Skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmcpx164FpAfgpwa19HXcA1Jw1pgUbcmpVQy28mzhRqSQX"
+  },
+  {
+    "asset": {
+      "id": 62,
+      "name": "Maguu Kenki",
+      "rarity": 3,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Maguu Kenki.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qmdfeu4CRJJSHBE8DTgB3F3VPwttK4W5DGSRXEoNpsbe2k"
+  },
+  {
+    "asset": {
+      "id": 63,
+      "name": "Mona",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Mona.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRNgDrBGxn7kH4inPxCbyhWvuj31BAS5Ry7w3pLReAMhV"
+  },
+  {
+    "asset": {
+      "id": 64,
+      "name": "Mona Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Mona_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmTSaevhfY3GSP83HEQbPxZNYCzY7u4i6MoLPtspTTgC12"
+  },
+  {
+    "asset": {
+      "id": 65,
+      "name": "Nahida",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Catalyst",
+      "faction": "Sumeru",
+      "image": "Nahida.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRau1cBvYwgxjkNEWAdXNVGSMWMnn3FnWqP63NN3bkVAv"
+  },
+  {
+    "asset": {
+      "id": 66,
+      "name": "Nilou",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Nilou.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmcJkdCnkXGEWmf8kHXM6uoQ4NGb9gd6dj8JGzZzKo3U9g"
+  },
+  {
+    "asset": {
+      "id": 67,
+      "name": "Ningguang",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Ningguang.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmW3ihSYD9uwNyz2AzoFeb3cSY899pfH6sMbj1Edvm8oJK"
+  },
+  {
+    "asset": {
+      "id": 68,
+      "name": "Ningguang Animated",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Ningguang_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmSo5vkHsTevgwmVKFzcK3xHwDgctGvSYkjREme7SdDiPG"
+  },
+  {
+    "asset": {
+      "id": 69,
+      "name": "Noelle",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Noelle.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmcEFP5hNMGyaqgwwe6Dpd8fw11iESnRu99XrZqXcYuKA7"
+  },
+  {
+    "asset": {
+      "id": 70,
+      "name": "Noelle Animated",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Noelle_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPQkLCixCa3RrQJBp3A8E32WpgxnrxvjxJGizaJgvsgtU"
+  },
+  {
+    "asset": {
+      "id": 71,
+      "name": "Qiqi",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Qiqi.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYJeZXe5usnWN1L5d5s2zzWit6pwh7sSuwAjtBYSFXt2u"
+  },
+  {
+    "asset": {
+      "id": 72,
+      "name": "Raiden Shogun",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "faction": "Inazuma",
+      "image": "Raiden Shogun.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXuoBh1CfVz6By6umdiWijx6pYjvDk2SQiAuCTnFZjgzf"
+  },
+  {
+    "asset": {
+      "id": 73,
+      "name": "Kujou Sara Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Kujou Sara_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmc8jJQZbVkuksxmuLLE3vfGujfsQeFh1Nt2Zzvu6ySpdE"
+  },
+  {
+    "asset": {
+      "id": 74,
+      "name": "Razor",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Razor.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmWQabRkjsxkhmWp3fu61rgNB8wajjGv3XdXMgaayguusW"
+  },
+  {
+    "asset": {
+      "id": 75,
+      "name": "Razor Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Razor_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmTKYV2V19gzckrf5KYmp76PDGmjLzdtUsdy4zfP1NiYEj"
+  },
+  {
+    "asset": {
+      "id": 76,
+      "name": "Rhodeia of Loch",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Rhodeia of Loch.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmbgHwrtkcfpZeaNudz41gpM8jdZivcnjXWNnyDTZrV96f"
+  },
+  {
+    "asset": {
+      "id": 77,
+      "name": "Rhodeia of Loch Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Rhodeia of Loch_dynamic skin.gif",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qmcjy1bsmNtQAo3yT8UxDXaE5w8iRvEbGW8843hbZcdq2N"
+  },
+  {
+    "asset": {
+      "id": 78,
+      "name": "Neuvillette",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Neuvillette.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmTWPMMwoEXJ8g3KtaozRSM3P3EYMmx7QmpH6FdYwYvvqC"
+  },
+  {
+    "asset": {
+      "id": 79,
+      "name": "Sangonomiya Kokomi",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Sangonomiya Kokomi.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmaRXC4SZioq9Q8KLfu6HReMqosaM9rVQen5HQ6NMNfHAx"
+  },
+  {
+    "asset": {
+      "id": 80,
+      "name": "Sayu",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Claymore",
+      "faction": "Inazuma",
+      "image": "Sayu.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPtnN5cxbjn5QYBe5R5vtWLrUsdMwKXCFHHMQq2bvnrhr"
+  },
+  {
+    "asset": {
+      "id": 81,
+      "name": "Shenhe",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Shenhe.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRWcKvYo78fiN8rMxCtUiaRTqWGRDtmuULttmFhm3b9qp"
+  },
+  {
+    "asset": {
+      "id": 82,
+      "name": "Wriothesley",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Wriothesley.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYAxBpDXEW2XtH6oXBMB4aWGQciRuJGizBZfweUS42ZfU"
+  },
+  {
+    "asset": {
+      "id": 83,
+      "name": "Sucrose",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Sucrose.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPjWwaRuRAsCQndtsXSNdBGrwaBidWfR1vhGx9X8VKtWj"
+  },
+  {
+    "asset": {
+      "id": 84,
+      "name": "Sucrose Animated",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Sucrose_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmeTkfRp6MPsg74sqmxRva4NynthgygcSJreMSe9c2yVTQ"
+  },
+  {
+    "asset": {
+      "id": 85,
+      "name": "Tartaglia",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Bow",
+      "faction": "Fatui",
+      "image": "Tartaglia.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRu6Z5MKTaYxAnux4r3jBQ3R8vE4QvorkGUtPiXgwCSig"
+  },
+  {
+    "asset": {
+      "id": 86,
+      "name": "Sangonomiya Kokomi Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Sangonomiya Kokomi_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmY7snhxg5R9PEmnZnFCP4XFzy8YMJQKustDydAtqXs6B7"
+  },
+  {
+    "asset": {
+      "id": 87,
+      "name": "Thoma",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Inazuma",
+      "image": "Thoma.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmToWy8ENKTomkYhwZ4nv32VdB5yv3ZtJFikF3xkTea42g"
+  },
+  {
+    "asset": {
+      "id": 88,
+      "name": "Tighnari",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Tighnari.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmXZrf4Gu9LjaBrc5x9DpfdQAP693XnFGLL5e8LNHtqMSG"
+  },
+  {
+    "asset": {
+      "id": 89,
+      "name": "Venti",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Venti.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmUvfDMEpjjW3pJLmo14UwJrekXad8kUDArfv6hwAMvP7E"
+  },
+  {
+    "asset": {
+      "id": 90,
+      "name": "Wriothesley Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Wriothesley Dynamic Skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmeh5MSvYw8tRHR1eHNaPiSkrY9fLUGMXBtdfK4V6VCY9r"
+  },
+  {
+    "asset": {
+      "id": 91,
+      "name": "Wanderer",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Sumeru",
+      "image": "Wanderer.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmdknJoL4BaNwCrECrxSkqT8huioCroNmiyECo2xPGu6UG"
+  },
+  {
+    "asset": {
+      "id": 92,
+      "name": "Xiangling",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiangling.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmSkBJ1LficxfMiAiwFf7xUkdoVyUEndikimzActeDXrzE"
+  },
+  {
+    "asset": {
+      "id": 93,
+      "name": "Xiangling Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiangling_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmYzDTKCvnEqKrRrE9HbSEWdGV1z4LsTB47mHget2Rj1HY"
+  },
+  {
+    "asset": {
+      "id": 94,
+      "name": "Xiao",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiao.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmZ6nVxjBivEHCEUMAwgjf5q3NvSKR654sCQBwzRjeUfJi"
+  },
+  {
+    "asset": {
+      "id": 95,
+      "name": "Xianyun Animated",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Xianyun Dynamic Skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmaK1dh7HvkrP9Hr5xiefHBTx8KGFWSj9GztKLiTeUMkpx"
+  },
+  {
+    "asset": {
+      "id": 96,
+      "name": "Xingqiu",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Xingqiu.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmPP7fxfaw5wxHfPHizSnHfETM74H5EwmUE98vc9UNUuvB"
+  },
+  {
+    "asset": {
+      "id": 97,
+      "name": "Xingqiu Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Xingqiu_dynamic skin.gif",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmbDFmnsSVXthYXbFbfgDzCDoHgoe2K7Srf3DFiShDvhFP"
+  },
+  {
+    "asset": {
+      "id": 98,
+      "name": "Xinyan",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Xinyan.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmUGAEz62s45wGCKuLxvNrcRtq7DEz4ArfFTA5YXhfkV1m"
+  },
+  {
+    "asset": {
+      "id": 99,
+      "name": "Yae Miko",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Yae Miko.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmdyom8k24F7sjZ1Z3rWHTMZGsTYYG6j1ef8u6f1KGQh4y"
+  },
+  {
+    "asset": {
+      "id": 100,
+      "name": "Yanfei",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Yanfei.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmS2Z4VoN4JftTKwWRjSE9RS1WEL4kbGHqDrjHZ3QrJTqP"
+  },
+  {
+    "asset": {
+      "id": 101,
+      "name": "Yaoyao",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Yaoyao.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmRm2dASqT3rNN1DRNPU8Ai3KtfNEn3NVb2dagBb2ZyCYy"
+  },
+  {
+    "asset": {
+      "id": 102,
+      "name": "Yelan",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Bow",
+      "faction": "Liyue",
+      "image": "Yelan.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmaVgFPbxMqGKNti5fSHqP2udQAcoeWgSbbD6neTfziiFC"
+  },
+  {
+    "asset": {
+      "id": 103,
+      "name": "Yoimiya",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Yoimiya.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://Qmek1eK9nQ1nC4rb388jxngxZWH5THZPgfCQbzHcUCtToK"
+  },
+  {
+    "asset": {
+      "id": 104,
+      "name": "Yun Jin",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Yunjin.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmceBsbu84CwTLs5z91XvRcGnq5XAv6SWko8HhjZSm6H7L"
+  },
+  {
+    "asset": {
+      "id": 105,
+      "name": "Zhongli",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Zhongli.png",
+      "category": "Character"
+    },
+    "tokenURI": "ipfs://QmZ3a2R7vYBABzcWtxYCNs9oTim4BjdPYGGAdwCM7gV8Pk"
+  },
+  {
+    "asset": {
+      "id": 106,
+      "name": "Anemo Samachurl",
+      "rarity": 3,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Anemo Samachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmQdCB9AgUBeQmYiRoC6sfvVNacEQ9cyL3xiVDMrY82ra6"
+  },
+  {
+    "asset": {
+      "id": 107,
+      "name": "Annihilation Specialist Mek - Ousia",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Annihilation Specialist Mek - Ousia.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmcMT6ATMRivZuDvUq8Tx6Bmn2diHCcS8EYw1pMVGTLv2v"
+  },
+  {
+    "asset": {
+      "id": 108,
+      "name": "Annihilation Specialist Mek - Pneuma",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Annihilation Specialist Mek - Pneuma.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qmd7i5nqk5Da7VmAL6n4uw8WgcBJg1Tx3bzpBCmFVzCwpV"
+  },
+  {
+    "asset": {
+      "id": 109,
+      "name": "Arithmetic Enhancer Mek - Ousia",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Arithmetic Enhancer Mek - Ousia.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVEeqv9f9wn8GyVSkwbEULwixRcbQk33euy6sjNu8z16K"
+  },
+  {
+    "asset": {
+      "id": 110,
+      "name": "Arithmetic Enhancer Mek - Pneuma",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Arithmetic Enhancer Mek - Pneuma.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmYv6WGhubh77yjT3Q5gzrwq1ZJirTZJHrCiKemBhPb2ue"
+  },
+  {
+    "asset": {
+      "id": 111,
+      "name": "Assault Specialist Mek - Ousia",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Assault Specialist Mek - Ousia.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVSKpYDWh4oX1w4uPsgxsFjaXEuf1GhmhTJvR6kWWoCeT"
+  },
+  {
+    "asset": {
+      "id": 112,
+      "name": "Assault Specialist Mek - Pneuma",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Assault Specialist Mek - Pneuma.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVd1CUbB1qwXNSPXrrc997s59HxgZhHUHUGbEs5aSpce8"
+  },
+  {
+    "asset": {
+      "id": 113,
+      "name": "Blazing Axe Mitachurl",
+      "rarity": 3,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Blazing Axe Mitachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmR9saenUR5WN5XFYxchn8fD1oXLLWKFsAhZy33gN81K8X"
+  },
+  {
+    "asset": {
+      "id": 114,
+      "name": "Crackling Axe Mitachurl",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Crackling Axe Mitachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmNfk6RYJPJ8iRaVsPxr1463z1SZW9WHH8ro9xArKrYNUx"
+  },
+  {
+    "asset": {
+      "id": 115,
+      "name": "Cryo Abyss Mage",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Cryo Abyss Mage.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qma1h3LX61d7LCkNvAjgaWdNrfdKadxkfnXH97rvkrBvGb"
+  },
+  {
+    "asset": {
+      "id": 116,
+      "name": "Cryo Hilichurl Shooter",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Cryo Hilichurl Shooter.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmSKu6LpdhmA5h3h6sHqYu1SXmnbUCN451zxdNUApf9Qsh"
+  },
+  {
+    "asset": {
+      "id": 117,
+      "name": "Cryo Slime",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Cryo Slime.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmeUVrCgYLLfo9mivzw6m1VKo5r7DwXa4JqUn3nb9Quvag"
+  },
+  {
+    "asset": {
+      "id": 118,
+      "name": "Dendro Samachurl",
+      "rarity": 3,
+      "element": "Dendro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Dendro Samachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmQzaUNsYxp1priBqmMUgTg8kh8nTjVisABvyJdtjE1Xw8"
+  },
+  {
+    "asset": {
+      "id": 119,
+      "name": "Electro Abyss Mage",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Electro Abyss Mage.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmR7teshJs1GFodKZGaUjeYmfspwvDEXhkf2VnVip2GvAE"
+  },
+  {
+    "asset": {
+      "id": 120,
+      "name": "Electro Hilichurl Shooter",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Electro Hilichurl Shooter.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVZdRrrW9xeb5dwvMPv377L9JYcUBn42tjVcsrb1b2XER"
+  },
+  {
+    "asset": {
+      "id": 121,
+      "name": "Electro Samachurl",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Electro Samachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVDoa1P22Qqja1MmpoPmoe7nSbxt2oLVNhx61BMCRqZ5b"
+  },
+  {
+    "asset": {
+      "id": 122,
+      "name": "Electro Slime",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Electro Slime.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmZj5tBpX1DXCJi2PvzSA3tu1M9irmLrdToEGsGeRpnEPr"
+  },
+  {
+    "asset": {
+      "id": 123,
+      "name": "Eremite Daythunder",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Eremite",
+      "image": "Eremite Daythunder.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmeaD2qB9YWCzpMrAVvvK2aAZ4G5pg5DXqN4qMkJJC5ywz"
+  },
+  {
+    "asset": {
+      "id": 124,
+      "name": "Eremite Desert Clearwater",
+      "rarity": 3,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Eremite",
+      "image": "Eremite Desert Clearwater.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmfU7L5QziAXFxU69m7rC6uCz3mBZbckEMxhY5KvbkdQb9"
+  },
+  {
+    "asset": {
+      "id": 125,
+      "name": "Eremite Stone Enchanter",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Eremite",
+      "image": "Eremite Stone Enchanter.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmWhAAn862MNJ9ppb3FeVtfWRpCPZzY6q4tugUMqaK9yWy"
+  },
+  {
+    "asset": {
+      "id": 126,
+      "name": "Eremite Sunfrost",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Eremite",
+      "image": "Eremite Sunfrost.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmZgEE7FXPws7Z3FDqWpGDWFHeTEF2JrS6JrcCNrPNeuW7"
+  },
+  {
+    "asset": {
+      "id": 127,
+      "name": "Fatui Skirmisher - Anemoboxer Vanguard",
+      "rarity": 3,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Anemoboxer Vanguard.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmWQ7cBntwNScPcDBUfWbMpvMZWxjHcc1XFm5vxrMj8WAe"
+  },
+  {
+    "asset": {
+      "id": 128,
+      "name": "Fatui Skirmisher - Cryogunner Legionnaire",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Cryogunner Legionnaire.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmadsypczJ9MC5qnj9Enp6Axtant34KBQeGUj2f4xnLzAf"
+  },
+  {
+    "asset": {
+      "id": 129,
+      "name": "Fatui Skirmisher - Electrohammer Vanguard",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Electrohammer Vanguard.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmZqhPpq9vz87yzM85eyHQC7MWbAPubWjGRSiUAX2yX8LQ"
+  },
+  {
+    "asset": {
+      "id": 130,
+      "name": "Fatui Skirmisher - Geochanter Bracer",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Geochanter Bracer.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmWQc3wPL7qJTrwsxrgGJyHzLcPdkDNrtNYzaU4LBNKPdq"
+  },
+  {
+    "asset": {
+      "id": 131,
+      "name": "Fatui Skirmisher - Hydrogunner Legionnaire",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Hydrogunner Legionnaire.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmYekpf42KDfU9MXpL9qa4GgevWGeujwPxui3WM98cLqyq"
+  },
+  {
+    "asset": {
+      "id": 132,
+      "name": "Fatui Skirmisher - Pyroslinger Bracer",
+      "rarity": 3,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Skirmisher - Pyroslinger Bracer.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmcGRgWcugXDRoa8yGUce17fCTqfdYc57gZxBJev8E4P3n"
+  },
+  {
+    "asset": {
+      "id": 133,
+      "name": "Geo Samachurl",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Geo Samachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmetWRDGmegubNrhKrNSvRbTxhUs4Z5MbgkHtrkbyBFUhq"
+  },
+  {
+    "asset": {
+      "id": 134,
+      "name": "Grounded Geoshroom",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Grounded Geoshroom.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmPLCQnvv96LTrcX1nByjm4rxevskSvCp1BThxPZ89Q24f"
+  },
+  {
+    "asset": {
+      "id": 135,
+      "name": "Grounded Hydroshroom",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Grounded Hydroshroom.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmTv8GRJrNyVJAaq471RAg2GEqGbsKgnyamfmhkk9GUaBA"
+  },
+  {
+    "asset": {
+      "id": 136,
+      "name": "Hilichurl Berserker",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Hilichurl Berserker.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmfGir4xbKxeiDiV7LLer7gEd7Xcg4JqK6bxfgteiUEecS"
+  },
+  {
+    "asset": {
+      "id": 137,
+      "name": "Hilichurl Fighter",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Hilichurl Fighter.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmNcmyQ2LDAsoV6ZjQwY7AzfV8PoYyuKzA7QN9d8KMKDkj"
+  },
+  {
+    "asset": {
+      "id": 138,
+      "name": "Hilichurl Shooter",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Hilichurl Shooter.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qma3mhVmipqZkcdcU3RSY3Bh7DorqmkviWRwiHK7xxb4tH"
+  },
+  {
+    "asset": {
+      "id": 139,
+      "name": "Hydro Abyss Mage",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Hydro Abyss Mage.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmbDuTcpndvRGQEj1T13PTk9FveLpNpYdYUSdhVFmcVbAg"
+  },
+  {
+    "asset": {
+      "id": 140,
+      "name": "Hydro Samachurl",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Hydro Samachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmVNEf1U5VVm4J4pSBhXHFeUS8bXrSLEy6p2Zwrmcwcj2P"
+  },
+  {
+    "asset": {
+      "id": 141,
+      "name": "Hydro Slime",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Hydro Slime.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmaevLzsBK37F79NAYyYWg8kCz9Zk8ZsEQRCowjL3faEnH"
+  },
+  {
+    "asset": {
+      "id": 142,
+      "name": "Ice Shieldwall Mitachurl",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Ice Shieldwall Mitachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmYpYNQK4xmEF6Ed7ciudjpcgTy4HzFphUaPFPqvQHYfaa"
+  },
+  {
+    "asset": {
+      "id": 143,
+      "name": "Kairagi - Dancing Thunder",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Nobushi",
+      "image": "Kairagi - Dancing Thunder.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmSVBxiHZyBdssqTuCWngrwAY64T4xd5YxKP6k9r2mMTCG"
+  },
+  {
+    "asset": {
+      "id": 144,
+      "name": "Kairagi - Fiery Might",
+      "rarity": 3,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Nobushi",
+      "image": "Kairagi - Fiery Might.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmU8YBjYRGdNvziSFRTBzktTAByVWpvXEYmytHmTihRQfP"
+  },
+  {
+    "asset": {
+      "id": 145,
+      "name": "Large Cryo Slime",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Large Cryo Slime.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmPt2oZSWPM5sGJTUFkLbsQybns49uAoz4GdTatbSw78Ch"
+  },
+  {
+    "asset": {
+      "id": 146,
+      "name": "Large Hydro Slime",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Large Hydro Slime.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmQzHTe912cDJwQ2i6NxEwfLoBpjXqD7YDMemTsbSyXaP1"
+  },
+  {
+    "asset": {
+      "id": 147,
+      "name": "Nobushi - Hitsukeban",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Nobushi",
+      "image": "Nobushi - Hitsukeban.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmXx918V8NyYQga5C7L6KtoTFdEJJCJCd1SmU7No5sqG7d"
+  },
+  {
+    "asset": {
+      "id": 148,
+      "name": "Nobushi - Jintouban",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Nobushi",
+      "image": "Nobushi - Jintouban.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmWpdnRkp8jvm9Kr7FVQMjyjFL4R16zqUqSu3XUiQCmFUb"
+  },
+  {
+    "asset": {
+      "id": 149,
+      "name": "Nobushi - Kikouban",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Nobushi",
+      "image": "Nobushi - Kikouban.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmeKkAYQMWfhMDfcZmg3eLC1Ap5wK16vPHWScAsgyM5tK9"
+  },
+  {
+    "asset": {
+      "id": 150,
+      "name": "Pyro Abyss Mage",
+      "rarity": 3,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Abyss Order",
+      "image": "Pyro Abyss Mage.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmR1PaEUF2gG9rZZNncNd2WPQoL4f4U8QBLGJFW7rDvVWD"
+  },
+  {
+    "asset": {
+      "id": 151,
+      "name": "Rock Shieldwall Mitachurl",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Rock Shieldwall Mitachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmWttaBJoGcgynA1qiKzTASeaFiBwWZE57UsyQnjTB2YYp"
+  },
+  {
+    "asset": {
+      "id": 152,
+      "name": "Rockfond Rifthound",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Rockfond Rifthound.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://Qmeu2Bk6F4zs6c6Bn3iyeJWTiEx5vcZY8qpKne218FuVz4"
+  },
+  {
+    "asset": {
+      "id": 153,
+      "name": "Ruin Drake - Earthguard",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Ruin Machines",
+      "image": "Ruin Drake - Earthguard.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmZi1co5XVrunZ6KFxKSSv5UG8Yzz8mg1b7DjXq3nkGScv"
+  },
+  {
+    "asset": {
+      "id": 154,
+      "name": "Ruin Guard",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Ruin Machines",
+      "image": "Ruin Guard.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmccKFpfvCoFDs9sg7VrsXiiC2af6hbnvkQaRYx64fqezm"
+  },
+  {
+    "asset": {
+      "id": 155,
+      "name": "Suppression Specialist Mek - Ousia",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Suppression Specialist Mek - Ousia.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmZsnFfz2HCExcBt82fvn18v5iZCHJCXAvW5o8MEvAmiUk"
+  },
+  {
+    "asset": {
+      "id": 156,
+      "name": "Suppression Specialist Mek - Pneuma",
+      "rarity": 3,
+      "element": "Geo",
+      "weapon": "Other",
+      "faction": "Fontaine",
+      "image": "Suppression Specialist Mek - Pneuma.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmcK4ccwjxX4ebzMWAjfTfLzt4N8oscLYmeQLiQRK84iUK"
+  },
+  {
+    "asset": {
+      "id": 157,
+      "name": "Tainted Hydro Phantasm",
+      "rarity": 3,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Tainted Hydro Phantasm.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmPw4TzTrVHVQUCcyrJpUi1jDyPpcMBEVoECYXAy7ahKq3"
+  },
+  {
+    "asset": {
+      "id": 158,
+      "name": "Thundercraven Rifthound",
+      "rarity": 3,
+      "element": "Electro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Thundercraven Rifthound.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmXFADUXMvSU2qGtWV3xvAkpYypUwMxKC9feb7xEERaqCL"
+  },
+  {
+    "asset": {
+      "id": 159,
+      "name": "Winged Cryoshroom",
+      "rarity": 3,
+      "element": "Cryo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Winged Cryoshroom.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmPRseGq4JASLTi6SYcsmwfH95NmYmWbsBTEupmVMcZQ7e"
+  },
+  {
+    "asset": {
+      "id": 160,
+      "name": "Winged Dendroshroom",
+      "rarity": 3,
+      "element": "Dendro",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Winged Dendroshroom.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmecpQZgRdjMKHBLJKN8XNyh4NkofRhriUtmEWRVqQgu1U"
+  },
+  {
+    "asset": {
+      "id": 161,
+      "name": "Wooden Shieldwall Mitachurl",
+      "rarity": 3,
+      "element": "Dendro",
+      "weapon": "Other",
+      "faction": "Hilichurl",
+      "image": "Wooden Shieldwall Mitachurl.png",
+      "category": "Enemy"
+    },
+    "tokenURI": "ipfs://QmfQTMsqc5ZR597PgLsQgUfYpjS1p7AkjZdmr3wgH1F2d2"
+  },
+  {
+    "asset": {
+      "id": 1,
+      "name": "A Subordinate's Skills",
+      "rarity": 1,
+      "image": "A  Subordinate_s Skills.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmdVTeiEynLTCsNBbK3nqf86Ju7qEsgsV2bM45WosfRufp"
+  },
+  {
+    "asset": {
+      "id": 2,
+      "name": "Abyssal Summons",
+      "rarity": 1,
+      "image": "Abyssal Summons.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qme2mHpWqdH86gto56JcasMKCuK9L394xXXJg8CSuyhGdZ"
+  },
+  {
+    "asset": {
+      "id": 3,
+      "name": "Adeptus' Temptation",
+      "rarity": 1,
+      "image": "Adeptus_ Temptation.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXia9tTXF9fkYsXq3Z8gbCus8kRS4DGnGXnUWco4EtcT8"
+  },
+  {
+    "asset": {
+      "id": 4,
+      "name": "Adventurer's Bandana",
+      "rarity": 1,
+      "image": "Adventurer_s Bandana.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmNh3Hr575mQBjicK14wFnUzhjJn1r37Lq13PDfT79oasm"
+  },
+  {
+    "asset": {
+      "id": 5,
+      "name": "Archaic Petra",
+      "rarity": 1,
+      "image": "Archaic Petra.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXT2GTAjTRvQ69UxgmnkNRoyHCquUPa6e3rdtaU9pEZem"
+  },
+  {
+    "asset": {
+      "id": 6,
+      "name": "Awakening",
+      "rarity": 1,
+      "image": "Awakening.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmRvspxzWtMmjq1J5EArX79T6GUQ3t9Y5kEDNwVMtn8GQC"
+  },
+  {
+    "asset": {
+      "id": 7,
+      "name": "Blessing of the Divine Relic's Installation",
+      "rarity": 1,
+      "image": "Blessing of the Divine Relic_s Installation.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmP1xyno5estDQeLHKkT3f4eWoc8arhi8xBdYTGbTrmwWY"
+  },
+  {
+    "asset": {
+      "id": 8,
+      "name": "Blizzard Strayer",
+      "rarity": 1,
+      "image": "Blizzard Strayer.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmUaouaJt6ME4FY5L9rf3tyBa1fcPZ9xG16ACxFVN3pBms"
+  },
+  {
+    "asset": {
+      "id": 9,
+      "name": "Broken Rime's Echo",
+      "rarity": 1,
+      "image": "Broken Rime_s Echo.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmeTNAPGsiV2c4pY99Ah85wVa2byzsEdiaH5rXZX8roVMM"
+  },
+  {
+    "asset": {
+      "id": 10,
+      "name": "Calx's Arts",
+      "rarity": 1,
+      "image": "Calx_s Arts.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmcmZPRBqh5xTqT6WotuXuqNBC2ZGi9Mhg9vFk6zxE8au4"
+  },
+  {
+    "asset": {
+      "id": 11,
+      "name": "Chang the Ninth",
+      "rarity": 1,
+      "image": "Chang the Ninth.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qme1VFpnN7g5pkSWLRX2UZVCQ7AowpNnnDNcbziuzuD86r"
+  },
+  {
+    "asset": {
+      "id": 12,
+      "name": "Changing Shifts",
+      "rarity": 1,
+      "image": "Changing Shifts.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmZ1r6B4CWHRgocH4zQ32fwqtFw5CXrnJBQdhF4kBL1wcA"
+  },
+  {
+    "asset": {
+      "id": 13,
+      "name": "Chaotic Entropy",
+      "rarity": 1,
+      "image": "Chaotic Entropy.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXRrQXe93YfxhXyZquKbaKSeC8mtdKt4keJNGLanUUx1m"
+  },
+  {
+    "asset": {
+      "id": 14,
+      "name": "Chef Mao",
+      "rarity": 1,
+      "image": "Chef Mao.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmecZnTnSj3cmjLDfvxcQHLzVj7Ka3CnYpPjWcJGCM3NFn"
+  },
+  {
+    "asset": {
+      "id": 15,
+      "name": "Cold-Blooded Strike",
+      "rarity": 1,
+      "image": "Cold-Blooded Strike.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmNfTsXUN2koMtmWDxzPv5XNqjcUbgdKy6xomBWJyE5aTt"
+  },
+  {
+    "asset": {
+      "id": 16,
+      "name": "Crimson Witch of Flames",
+      "rarity": 1,
+      "image": "Crimson Witch of Flames.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmREeGU3GY7kn57DAJUk9jcuvfCoASKJurBYRHGCmyCuVW"
+  },
+  {
+    "asset": {
+      "id": 17,
+      "name": "Crossfire",
+      "rarity": 1,
+      "image": "Crossfire.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmSQbmShTZ3QeMLfnfvXYmBmkZwd5qHWsrS817t7JbKGzd"
+  },
+  {
+    "asset": {
+      "id": 18,
+      "name": "Dawn Winery",
+      "rarity": 1,
+      "image": "Dawn Winery.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmUxiLq9FY3ksCu2xYmfgnYEzahj4LWtxJKZE25tAKxQMX"
+  },
+  {
+    "asset": {
+      "id": 19,
+      "name": "Deepwood Memories",
+      "rarity": 1,
+      "image": "Deepwood Memories.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmSTAAd4LemnwZrLU6JNgQnvF9GrbobZ26U5uYJrVbuSLa"
+  },
+  {
+    "asset": {
+      "id": 20,
+      "name": "Elemental Resonance: Enduring Rock",
+      "rarity": 1,
+      "image": "Elemental Resonance - Enduring Rock.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmaDntAvhu5GVt9qnooyXB8z71b6KPvtNsHG28DkVzaGEU"
+  },
+  {
+    "asset": {
+      "id": 21,
+      "name": "Elemental Resonance: Fervent Flames",
+      "rarity": 1,
+      "image": "Elemental Resonance - Fervent Flames.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmVfKcwdzwkXeFzfgzYKBqyxum8mQ3QPD98ids7c1vShwR"
+  },
+  {
+    "asset": {
+      "id": 22,
+      "name": "Elemental Resonance: High Voltage",
+      "rarity": 1,
+      "image": "Elemental Resonance - High Voltage.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmUWzg4ZcrrtKgspEGxATiuvDd2qrZJQoWQwM5RWJnrCZc"
+  },
+  {
+    "asset": {
+      "id": 23,
+      "name": "Elemental Resonance: Impetuous Winds",
+      "rarity": 1,
+      "image": "Elemental Resonance - Impetuous Winds.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qmac3jkwFXKxHJzmqKPiM1ErztrKKgAd6gXTDPykjsGTB8"
+  },
+  {
+    "asset": {
+      "id": 24,
+      "name": "Elemental Resonance: Shattering Ice",
+      "rarity": 1,
+      "image": "Elemental Resonance - Shattering Ice.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmZCBeGbq3hggrgoKswqg2VTD45ydTJoqHocb59ZL3XYyp"
+  },
+  {
+    "asset": {
+      "id": 25,
+      "name": "Elemental Resonance: Soothing Water",
+      "rarity": 1,
+      "image": "Elemental Resonance - Soothing Water.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qme9eQA8AzU2J8PWiE7vxbQF1NAzhNkZri8HsccAQ9tJre"
+  },
+  {
+    "asset": {
+      "id": 26,
+      "name": "Elemental Resonance: Sprawling Greenery",
+      "rarity": 1,
+      "image": "Elemental Resonance - Sprawling Greenery.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmPJQNsrJHm2FJ3JiutW2ar88orKK4tCkq8PT71hqQCC8V"
+  },
+  {
+    "asset": {
+      "id": 27,
+      "name": "Elemental Resonance: Woven Flames",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Flames.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmYkVKR2i5z3UZaNhEnBXC162EGVx5dsEArmY4xCJ9MKhZ"
+  },
+  {
+    "asset": {
+      "id": 28,
+      "name": "Elemental Resonance: Woven Ice",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Ice.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qmf2SmYMhYqwnQvkbB7BgjVedYkgmVrdrQ3vfzkrsgDR72"
+  },
+  {
+    "asset": {
+      "id": 29,
+      "name": "Elemental Resonance: Woven Stone",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Stone.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmVLkNhMCmEpHtgnfN1Ps7BfD9ju9katq5nBM2x8uHZjoS"
+  },
+  {
+    "asset": {
+      "id": 30,
+      "name": "Elemental Resonance: Woven Thunder",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Thunder.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qmasn37Xd5Ly6wPkkydMzFVLeeQ4xiVCSNo4VaiSSB5oPU"
+  },
+  {
+    "asset": {
+      "id": 31,
+      "name": "Elemental Resonance: Woven Waters",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Waters.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmbsWEuQ3L6y6aJpce7UpJxDQjPfxBbihiHTi7E4YZMava"
+  },
+  {
+    "asset": {
+      "id": 32,
+      "name": "Elemental Resonance: Woven Weeds",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Weeds.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmUd3MiWQprfiQy6x4gW7K3iKCxQkdV8sQKpQ1VNXusHQX"
+  },
+  {
+    "asset": {
+      "id": 33,
+      "name": "Elemental Resonance: Woven Winds",
+      "rarity": 1,
+      "image": "Elemental Resonance - Woven Winds.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmR1dDsN8NzYmxN2KSmZk7NdygGboCi63fuCsm9NcR2JQm"
+  },
+  {
+    "asset": {
+      "id": 34,
+      "name": "Emblem of Severed Fate",
+      "rarity": 1,
+      "image": "Emblem of Severed Fate.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmPXboJMaGh5wp55drTZKQoJGQu8KwVQRnvzUJkwpbxayq"
+  },
+  {
+    "asset": {
+      "id": 35,
+      "name": "Embers Rekindled",
+      "rarity": 1,
+      "image": "Embers Rekindled.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmRPH1yLm2WDT53XQjGYo2cJTchxFnRF4xitBAFHJ1ESTK"
+  },
+  {
+    "asset": {
+      "id": 36,
+      "name": "Embrace of Winds",
+      "rarity": 1,
+      "image": "Embrace of Winds.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXPqoKuRqroCSyUSCJyXgycdEtHnn3dX44WeNHTB6PZMx"
+  },
+  {
+    "asset": {
+      "id": 37,
+      "name": "Mushroom Pizza",
+      "rarity": 1,
+      "image": "Mushroom Pizza.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmcZCdN691FZwKwSWhKKWU31ukH5q68TktJzEii76shqXA"
+  },
+  {
+    "asset": {
+      "id": 38,
+      "name": "Naganohara Meteor Swarm",
+      "rarity": 1,
+      "image": "Naganohara Meteor Swarm.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qmdq6pRq9facuCCzMR6u53mSeS8yoHJRfegn9RDvew6AVF"
+  },
+  {
+    "asset": {
+      "id": 39,
+      "name": "Northern Smoked Chicken",
+      "rarity": 1,
+      "image": "Northern Smoked Chicken.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmeZPnhskzVtRqTFMSYzruURiCTgJ2FxCta7Dh7wadakpx"
+  },
+  {
+    "asset": {
+      "id": 40,
+      "name": "NRE",
+      "rarity": 1,
+      "image": "NRE.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmNv2NSqmkDY8DE5UFANjkY4H84WsD76dht1CidW84ii7P"
+  },
+  {
+    "asset": {
+      "id": 41,
+      "name": "Ornate Kabuto",
+      "rarity": 1,
+      "image": "Ornate Kabuto.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmeowK6exmHypd5UujEcPTbAMZhhwu9ExYp4WuyhyEDBt4"
+  },
+  {
+    "asset": {
+      "id": 42,
+      "name": "Paid in Full",
+      "rarity": 1,
+      "image": "Paid in Full.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmSyjMwzXU9sbcGMckuov7Ga9Krra9zV4mkpqaYwgiqD9z"
+  },
+  {
+    "asset": {
+      "id": 43,
+      "name": "Paimon",
+      "rarity": 1,
+      "image": "Paimon.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmeVXmSQggXL5HKF3rFWdm3uJd16a7S8cEZ2frMWfDKRJd"
+  },
+  {
+    "asset": {
+      "id": 44,
+      "name": "Parametric Transformer",
+      "rarity": 1,
+      "image": "Parametric Transformer.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmaAkarzNZFfEW5j2K9dBF1JYhf137hsXae92W3jiLs18e"
+  },
+  {
+    "asset": {
+      "id": 45,
+      "name": "Pearl Solidification",
+      "rarity": 1,
+      "image": "Pearl Solidification.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmNqxHFdpgk2JiswwhybzKKuAbxoSZoM3hao5fTfeh2i1R"
+  },
+  {
+    "asset": {
+      "id": 46,
+      "name": "Pounding Surprise",
+      "rarity": 1,
+      "image": "Pounding Surprise.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qme3EFUfMruc5R55VR9ZpJHtknhcW2syofFQ2JoKpfGfwG"
+  },
+  {
+    "asset": {
+      "id": 47,
+      "name": "Proliferating Spores",
+      "rarity": 1,
+      "image": "Proliferating Spores.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmQD4imVKDeFrLscfu2tWcan8zKMhUEYRTaXoMwsnF4DGw"
+  },
+  {
+    "asset": {
+      "id": 48,
+      "name": "Prophecy of Submersion",
+      "rarity": 1,
+      "image": "Prophecy of Submersion.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmVD7Z2RA8gR6kQXd62JCedP4wiEoRNLrAEN3JWsPCah5h"
+  },
+  {
+    "asset": {
+      "id": 49,
+      "name": "Quick Knit",
+      "rarity": 1,
+      "image": "Quick Knit.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXcnKZ7qdBM4q7CS94dVTNmp1EhLZR1R1ebsDbCydeStD"
+  },
+  {
+    "asset": {
+      "id": 50,
+      "name": "Send Off",
+      "rarity": 1,
+      "image": "Send Off.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmcSDhe5Q5ZGp3bhWerEmkGN9JPdVcjrLv761aBaewrAmH"
+  },
+  {
+    "asset": {
+      "id": 51,
+      "name": "Shaken, Not Purred",
+      "rarity": 1,
+      "image": "Shaken, Not Purred.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmcjhYf2x835S8DM2yTYtvqhqHNDBQ9ArMzU6SKUrqrT9Y"
+  },
+  {
+    "asset": {
+      "id": 52,
+      "name": "Skiving: New and Improved",
+      "rarity": 1,
+      "image": "Skiving_ New and Improved.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmfXhJeU6cCzC458fHpohZPsiiyVq4QtnZKGJEAfWNZhV4"
+  },
+  {
+    "asset": {
+      "id": 53,
+      "name": "Starsigns",
+      "rarity": 1,
+      "image": "Starsigns.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmRbzMJV1JGJrRNDyJaioRfPVN2BiQ3QyQvLyk1H9qfjTp"
+  },
+  {
+    "asset": {
+      "id": 54,
+      "name": "Steady Breathing",
+      "rarity": 1,
+      "image": "Steady Breathing.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmShvUzoMY8wRq6AcjPtimNFTzVR57dVTpcMD5JPynYAQR"
+  },
+  {
+    "asset": {
+      "id": 55,
+      "name": "Stellar Predator",
+      "rarity": 1,
+      "image": "Stellar Predator.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmfJoByvtsUGbvyzotPNFMHBmjiQ9DdhErz6QTYTjWXdGJ"
+  },
+  {
+    "asset": {
+      "id": 56,
+      "name": "Sternfrost Prism",
+      "rarity": 1,
+      "image": "Sternfrost Prism.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmPtF7Z2dAbHhZxCirrhBNZkQb2CTYVXW3ywvvVk843y9e"
+  },
+  {
+    "asset": {
+      "id": 57,
+      "name": "Stonehide Reforged",
+      "rarity": 1,
+      "image": "Stonehide Reforged.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmYHJDz1yzxkGWAaTzmx9p9cJvPpaXEuNBJnY4WkyLAKmF"
+  },
+  {
+    "asset": {
+      "id": 58,
+      "name": "Strategic Reserve",
+      "rarity": 1,
+      "image": "Strategic Reserve.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmWpCYJdaghb8Nr6Z5VKE8euMjp2v1qjGZsfXJ5MyhkD2h"
+  },
+  {
+    "asset": {
+      "id": 59,
+      "name": "Strategize",
+      "rarity": 1,
+      "image": "Strategize.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmW2x16iBLQfBhaCBvhLx8eUvVx7jPxkisi41CCfVcUpY6"
+  },
+  {
+    "asset": {
+      "id": 60,
+      "name": "Streaming Surge",
+      "rarity": 1,
+      "image": "Streaming Surge.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qma1GMXGHPyJBXZsBhHAYit6YcEuajTT8Uuw8ZFaKU1hHw"
+  },
+  {
+    "asset": {
+      "id": 61,
+      "name": "Sweet Madame",
+      "rarity": 1,
+      "image": "Sweet Madame.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmWKQcvUmWErU7ZbdVgBdRPCcMeA5ufa1ddyr7JU1AfCTh"
+  },
+  {
+    "asset": {
+      "id": 62,
+      "name": "The Bestest Travel Companion!",
+      "rarity": 1,
+      "image": "The Bestest Travel Companion!.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmTVMRmLxJs3Ndt7c9zbkfiHt1LK1cZrnQNt8gstghFXCX"
+  },
+  {
+    "asset": {
+      "id": 63,
+      "name": "The Scent Remained",
+      "rarity": 1,
+      "image": "The Scent Remained.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXYRNqaC7hYzZ2pRry6ZcfQfUacz5iQCbhkj9GGTq8kG6"
+  },
+  {
+    "asset": {
+      "id": 64,
+      "name": "Thunder Summoner's Crown",
+      "rarity": 1,
+      "image": "Thunder Summoner_s Crown.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmRGSbyaXMY98LjHSDU683bF7i5GfrZe8xZSBwfDjKmM2k"
+  },
+  {
+    "asset": {
+      "id": 65,
+      "name": "Thundering Fury",
+      "rarity": 1,
+      "image": "Thundering Fury.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmbdXepQ33CZHYNPC3hKS9kfztS8uMnfZ1Hzp8kanPVQaf"
+  },
+  {
+    "asset": {
+      "id": 66,
+      "name": "Thundering Penance",
+      "rarity": 1,
+      "image": "Thundering Penance.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmPXMRZXSNwzPim8FWjsZP79VbuHP26duRPqPmsC6iVpBg"
+  },
+  {
+    "asset": {
+      "id": 67,
+      "name": "Timaeus",
+      "rarity": 1,
+      "image": "Timaeus.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmXtw8QpUe1w6x7XoPDpxKJn4cgYE2nf2iCWoGz8WeKzPr"
+  },
+  {
+    "asset": {
+      "id": 68,
+      "name": "Timmie",
+      "rarity": 1,
+      "image": "Timmie.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmYiV2DGPLVqHsqAUgSsBWBvAMtYbT6GYRdy1deSDVi7Ex"
+  },
+  {
+    "asset": {
+      "id": 69,
+      "name": "Toss-Up",
+      "rarity": 1,
+      "image": "Toss-Up.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmRKCehgWskvduuUb1HWFRyz9BxvXU5eLN3BhQK5nLArUy"
+  },
+  {
+    "asset": {
+      "id": 70,
+      "name": "Transcendent Automaton",
+      "rarity": 1,
+      "image": "Transcendent Automaton.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmbvyN5H4CNfNpoR7TNXP82Ve1VaXSL2zUtxM6M5Dh9z3f"
+  },
+  {
+    "asset": {
+      "id": 71,
+      "name": "Traveling Doctor's Handkerchief",
+      "rarity": 1,
+      "image": "Traveling Doctor_s Handkerchief.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmWHAi6xj9Mh3o2V8Jcjwj4toU96HfYstuprYVFRo1KTrU"
+  },
+  {
+    "asset": {
+      "id": 72,
+      "name": "Tubby",
+      "rarity": 1,
+      "image": "Tubby.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmdTVJuSgKF6bcvuei8iXoUaLwBidQPBLu8dh7vtXSP6aX"
+  },
+  {
+    "asset": {
+      "id": 73,
+      "name": "Undivided Heart",
+      "rarity": 1,
+      "image": "Undivided Heart.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmUPJEzHP8zD9e5PZujL2VoCvC4m7E6s3qS4qaqQwc1ksK"
+  },
+  {
+    "asset": {
+      "id": 74,
+      "name": "Viridescent Venerer",
+      "rarity": 1,
+      "image": "Viridescent Venerer.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmTpZ6xaAk7SFSALDa3eJtg3pacY7SDWXDPDFA58fNg9Ru"
+  },
+  {
+    "asset": {
+      "id": 75,
+      "name": "Viridescent Venerer's Diadem",
+      "rarity": 1,
+      "image": "Viridescent Venerer_s Diadem.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmWMrgt8PAmg2QgrJu4LrCwQGpoxeusHLkA1LpEaDdrMEF"
+  },
+  {
+    "asset": {
+      "id": 76,
+      "name": "Wagner",
+      "rarity": 1,
+      "image": "Wagner.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://Qmb5SGSbXPgHDZ81vbKJ4ickTm73Xmi7ZRdQkASLrpw6nt"
+  },
+  {
+    "asset": {
+      "id": 77,
+      "name": "Wangshu Inn",
+      "rarity": 1,
+      "image": "Wangshu Inn.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmZPMMoA2nqVybCpgAdqFqLWz9wUcVRSPfRmNaG5R5SpXS"
+  },
+  {
+    "asset": {
+      "id": 78,
+      "name": "When the Crane Returned",
+      "rarity": 1,
+      "image": "When the Crane Returned.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmZD4wioSf38f2WzpuzF7c3WkhsDAiKAh3HXaFfT2jnwxg"
+  },
+  {
+    "asset": {
+      "id": 79,
+      "name": "Wine-Stained Tricorne",
+      "rarity": 1,
+      "image": "Wine-Stained Tricorne.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmWzKofeneZuUtaMxG55gjj3MQpPmxsumXJrSE4zizMRHU"
+  },
+  {
+    "asset": {
+      "id": 80,
+      "name": "Witch's Scorching Hat",
+      "rarity": 1,
+      "image": "Witch_s Scorching Hat.png",
+      "category": "Action"
+    },
+    "tokenURI": "ipfs://QmaU67oFrXqZMSWWVRUHEF6fwK7LRV5zvdrT1PW8zGDi2y"
+  }
+]

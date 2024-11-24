@@ -1,0 +1,1118 @@
+[
+  {
+    "character": {
+      "id": 1,
+      "name": "Albedo",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Albedo.png"
+    },
+    "tokenURI": "ipfs://QmSWaoSHSfezxs6u3VXwenbShiPg3RURKyNFVSCGb7rBYT"
+  },
+  {
+    "character": {
+      "id": 2,
+      "name": "Alhaitham",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Alhaitham.png"
+    },
+    "tokenURI": "ipfs://QmNPm2opa4CXdncdiUmvi9V9PJnscbBEuqQnzAscT4pGP8"
+  },
+  {
+    "character": {
+      "id": 3,
+      "name": "Amber",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Amber.png"
+    },
+    "tokenURI": "ipfs://QmXAeodpQi1opQ8q48jgixsa7j7es2aSXio5n2P8VvAyBp"
+  },
+  {
+    "character": {
+      "id": 4,
+      "name": "Barbara",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Barbara.png"
+    },
+    "tokenURI": "ipfs://QmPLbpyzqZMhEViiRZT2SUhuJbZc1FMJ5Af4Tifkz6cnde"
+  },
+  {
+    "character": {
+      "id": 5,
+      "name": "Barbara Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Barbara_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmTrxDBUTQxthSYF7YqdEPaPTX5UxK5BGnmHWn7XYGtPxt"
+  },
+  {
+    "character": {
+      "id": 6,
+      "name": "Beidou",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Beidou.png"
+    },
+    "tokenURI": "ipfs://QmR6xExDDQzQ627KuV4KZM4wXzkJun3VJBxgJS6B8Tt59b"
+  },
+  {
+    "character": {
+      "id": 7,
+      "name": "Beidou Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Beidou_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmSaZL8V7dk5iD9VkLS9XWjDebPP4PYVU6vpgvsPftKAWP"
+  },
+  {
+    "character": {
+      "id": 8,
+      "name": "Bennett",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Bennett.png"
+    },
+    "tokenURI": "ipfs://QmeYNKZicfVgC1Mnpd24vbths49C2F2pobchFC9LxeDYip"
+  },
+  {
+    "character": {
+      "id": 9,
+      "name": "Bennett Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Bennett_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmS67rjgtnE8bcMn9sXzPbod5Yzr62XrBzCrsnv1v2NwCM"
+  },
+  {
+    "character": {
+      "id": 10,
+      "name": "Candace",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Candace.png"
+    },
+    "tokenURI": "ipfs://QmXzXBeJ4jM7Tg4STBU5cg6ia2dP87MSPApoQ5UvotZE7c"
+  },
+  {
+    "character": {
+      "id": 11,
+      "name": "Candace Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Candace_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmUMrsgLZd4CibqrWaUyrM515UYnREKJr63EaMCywJ7BWC"
+  },
+  {
+    "character": {
+      "id": 12,
+      "name": "Charlotte",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Charlotte.png"
+    },
+    "tokenURI": "ipfs://QmXVD9aBmMiMitas9zt2upThZakWL1eJFCpnrisiUgJmPT"
+  },
+  {
+    "character": {
+      "id": 13,
+      "name": "Chevreuse",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Fontaine",
+      "image": "Chevreuse.png"
+    },
+    "tokenURI": "ipfs://QmXrxVUqGre6Sv38nR5LxRaGWsQ8dXWtiUbSd1d26sNe89"
+  },
+  {
+    "character": {
+      "id": 14,
+      "name": "Chevreuse Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Fontaine",
+      "image": "Chevreuse_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmXKsWpEn34EJY4nkLiAWY8vTVqzuUiaX9qG8bC8d2krj7"
+  },
+  {
+    "character": {
+      "id": 15,
+      "name": "Chongyun",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Chongyun.png"
+    },
+    "tokenURI": "ipfs://Qmc1Sx4AZJzB3tPUhgriGRAgigfBWAEXDGFNshsJofpc1P"
+  },
+  {
+    "character": {
+      "id": 16,
+      "name": "Chongyun Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Chongyun_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://Qma11YtKZQeyaegaf9PmNFw3VJ9nafNAx5eST8UBeUV21e"
+  },
+  {
+    "character": {
+      "id": 17,
+      "name": "Collei",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Collei.png"
+    },
+    "tokenURI": "ipfs://QmUMuY34ZSHhsE6KKLiVD9CxqRMgmNR6C79g75uKD4Gt1X"
+  },
+  {
+    "character": {
+      "id": 18,
+      "name": "Collei Animated",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Collei_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmaNZTddjZcRB3QhYEiPFBWtj6uoqPpqyy6EuwMh3mWEqh"
+  },
+  {
+    "character": {
+      "id": 19,
+      "name": "Cyno",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Cyno.png"
+    },
+    "tokenURI": "ipfs://QmQcP516qReyFB1jRgbCwm4QkjyVVqNV2k3TuWLVQJ2oy5"
+  },
+  {
+    "character": {
+      "id": 20,
+      "name": "Cyno Animated",
+      "rarity": 6,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "faction": "Sumeru",
+      "image": "Cyno_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmRqHaZPchwKD5mqGoja8QShs1WWzTevTxEzTtS6z5XQ4t"
+  },
+  {
+    "character": {
+      "id": 21,
+      "name": "Diluc",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Diluc.png"
+    },
+    "tokenURI": "ipfs://Qmc9RaRk7NrJMW6NsRigT8gcejwC15c7kzR9eoqphTTPk3"
+  },
+  {
+    "character": {
+      "id": 22,
+      "name": "Diluc Animated",
+      "rarity": 6,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Diluc_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmeVZVoz8fK1dJkFmoiGnDgAzVc3fsScYcUwNCNgvt7qNc"
+  },
+  {
+    "character": {
+      "id": 23,
+      "name": "Eula",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Eula.png"
+    },
+    "tokenURI": "ipfs://QmQJDFj7hJ58iMkvNbhSW2DkD44AvHE6uKqWZXZ8mwLbeZ"
+  },
+  {
+    "character": {
+      "id": 24,
+      "name": "Eula Animated",
+      "rarity": 6,
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Eula_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmWAG7vrcAb9A15bUJoHS9vo16aJ9TZMdKW8b9ckUJhnQu"
+  },
+  {
+    "character": {
+      "id": 25,
+      "name": "Fatui Pyro Agent",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Pyro Agent.png"
+    },
+    "tokenURI": "ipfs://QmUBxZoWFHLXofbLTvyDMExpgkn92NXFX7cGSuiAE2bW9e"
+  },
+  {
+    "character": {
+      "id": 26,
+      "name": "Fatui Pyro Agent Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Fatui Pyro Agent_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmcPkEJgCaV7pytyfuPX4Bqg1ALyYVwjhb6MYv8tJmap7R"
+  },
+  {
+    "character": {
+      "id": 27,
+      "name": "Jean",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Jean.png"
+    },
+    "tokenURI": "ipfs://QmT7xRxdh9HaJFGENXkNdzUKDLmgFWsZBZHozD7L3knMT6"
+  },
+  {
+    "character": {
+      "id": 28,
+      "name": "Jean Animated",
+      "rarity": 6,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Jean_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmfMBYCLXwf7xDL4z4wFkRAgYK5j7SwnnMo63Dn9BsJkBH"
+  },
+  {
+    "character": {
+      "id": 29,
+      "name": "Kaeya",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Kaeya.png"
+    },
+    "tokenURI": "ipfs://QmcxKX4Ptgdt7H1ofMNpCyaumstM7pa9HJYJP3VELzmQZD"
+  },
+  {
+    "character": {
+      "id": 30,
+      "name": "Kaeya Animated",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Mondstadt",
+      "image": "Kaeya_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmZ9fhRHSLZDB85EbHTxzDXqJDQn8ZunZh6ewU6gpg6bLS"
+  },
+  {
+    "character": {
+      "id": 31,
+      "name": "Kamisato Ayaka",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kamisato Ayaka.png"
+    },
+    "tokenURI": "ipfs://QmVjxQZv6P3pYCVFC1z3kmEmVZ1fixYVM4VMDHunJhyEQB"
+  },
+  {
+    "character": {
+      "id": 32,
+      "name": "Kamisato Ayaka Animated",
+      "rarity": 6,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Inazuma",
+      "image": "Kamisato Ayaka_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmYtoZw5tDxYDjGDBQDgCFCnb7oAVH4nNX5UQvy9VDpHKC"
+  },
+  {
+    "character": {
+      "id": 33,
+      "name": "Kaveh",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Claymore",
+      "faction": "Sumeru",
+      "image": "Kaveh.png"
+    },
+    "tokenURI": "ipfs://QmSWTZ15TwdnM6YT7PqMzSoVHqu8jurytCaP3X9nsf619a"
+  },
+  {
+    "character": {
+      "id": 34,
+      "name": "Kaveh Animated",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Claymore",
+      "faction": "Sumeru",
+      "image": "Kaveh_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmdMaY6cT62KcdjyqMRyDvUYDWgEFVfiApF5LFWAHtfVZ7"
+  },
+  {
+    "character": {
+      "id": 35,
+      "name": "Keqing",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Keqing.png"
+    },
+    "tokenURI": "ipfs://QmSKa4CRpoBVNkgZs5VwgjzxV2mWRDNXhRyryVKDUicfxR"
+  },
+  {
+    "character": {
+      "id": 36,
+      "name": "Keqing Animated",
+      "rarity": 6,
+      "element": "Electro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Keqing_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://Qmc5UToAsGJy7ZDuHxGCYrLW86aGRxeAoaUDsrGubPZRhD"
+  },
+  {
+    "character": {
+      "id": 37,
+      "name": "Klee",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Klee.png"
+    },
+    "tokenURI": "ipfs://QmTaPAuRx6UDPMXNvdvjEanxGiL6JjWRcwdhu24SqU8QnB"
+  },
+  {
+    "character": {
+      "id": 38,
+      "name": "Klee Animated",
+      "rarity": 6,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Klee_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmboxnXNPNZNPbmzQ16cbDpbVm5d3E9Nwpgf5QC9rgrEDb"
+  },
+  {
+    "character": {
+      "id": 39,
+      "name": "La Signora",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fatui",
+      "image": "La Signora.png"
+    },
+    "tokenURI": "ipfs://QmQV4qaumHenYbGPe942nx6fUcEH6S7HPCyEHVsE3F3i1w"
+  },
+  {
+    "character": {
+      "id": 40,
+      "name": "Layla",
+      "rarity": 4,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Layla.png"
+    },
+    "tokenURI": "ipfs://Qmd7E2UyNJv9WrRnohAJXFXXhghXJYDZ5WgBPKYSEw2JJY"
+  },
+  {
+    "character": {
+      "id": 41,
+      "name": "Lisa",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Lisa.png"
+    },
+    "tokenURI": "ipfs://QmRKd56rGk2cPS1Nd2Sas5KShhXgZfWsz7UbKnnt86YfKB"
+  },
+  {
+    "character": {
+      "id": 42,
+      "name": "Lynette",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Sword",
+      "faction": "Fontaine",
+      "image": "Lynette.png"
+    },
+    "tokenURI": "ipfs://QmYfL4RaoRQtsZ6QaPXebPX5PuZjVxSABqnWhSM1ZhRMGG"
+  },
+  {
+    "character": {
+      "id": 43,
+      "name": "Lyney",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Fontaine",
+      "image": "Lyney.png"
+    },
+    "tokenURI": "ipfs://QmSWuSyRv7p74rC8iEz1rX387oa6X9joyjTC9cKFtRvvqx"
+  },
+  {
+    "character": {
+      "id": 44,
+      "name": "Maguu Kenki",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Maguu Kenki.png"
+    },
+    "tokenURI": "ipfs://QmTdasPm91sNMpqvGY1PPhyjV2qZ8wrAawLYJeBSFQimsW"
+  },
+  {
+    "character": {
+      "id": 45,
+      "name": "Maguu Kenki Animated",
+      "rarity": 6,
+      "element": "Anemo",
+      "weapon": "Other",
+      "faction": "Monster",
+      "image": "Maguu Kenki_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmZC7NaUubSjfYdK6KkfC2Wcypc8mcdRJRVzWYCw7CbVYA"
+  },
+  {
+    "character": {
+      "id": 46,
+      "name": "Mirror Maiden",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Mirror Maiden.png"
+    },
+    "tokenURI": "ipfs://QmcWHnJRCmx4uZkJUqZ97y1ob1dDgqoLSJk9hvgcDtTp4Z"
+  },
+  {
+    "character": {
+      "id": 47,
+      "name": "Mirror Maiden Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Other",
+      "faction": "Fatui",
+      "image": "Mirror Maiden_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmPdpz2rxcE6rwP1pto2LJNd6AcBG18at8LvWyvyG59fSW"
+  },
+  {
+    "character": {
+      "id": 48,
+      "name": "Mona",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Mona.png"
+    },
+    "tokenURI": "ipfs://QmYRJNzMfxgnfoAQpb5QJegSgX2cHC4pYKKEAG3as6ekj5"
+  },
+  {
+    "character": {
+      "id": 49,
+      "name": "Mona Animated",
+      "rarity": 6,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Mona_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmPZP93fULdDemWGrQSj9RZuAuLfQtNWRq19Ya7Xnwqdz2"
+  },
+  {
+    "character": {
+      "id": 50,
+      "name": "Nahida",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Catalyst",
+      "faction": "Sumeru",
+      "image": "Nahida.png"
+    },
+    "tokenURI": "ipfs://QmdpHuzn6Pe4Tmn2hG3Hm1BuDfre2jDoWgLwcyWX8omGUF"
+  },
+  {
+    "character": {
+      "id": 51,
+      "name": "Navia",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Fontaine",
+      "image": "Navia.png"
+    },
+    "tokenURI": "ipfs://QmZYuhgvoXo82uSQJHZffBtwEtf6Q7Z7iEhvwU54Np9HXa"
+  },
+  {
+    "character": {
+      "id": 52,
+      "name": "Navia Animated",
+      "rarity": 6,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Fontaine",
+      "image": "Navia_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmUDsBFQWMG7LtW9C1N2HK5XGPgHGFvyvpKtvz4xNa5kMs"
+  },
+  {
+    "character": {
+      "id": 53,
+      "name": "Neuvillette",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Neuvillette.png"
+    },
+    "tokenURI": "ipfs://Qme9SBiobDv3Hny73juKpVBLw6u2wu1vdnMrkCHJJVrJ7q"
+  },
+  {
+    "character": {
+      "id": 54,
+      "name": "Nilou",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Sumeru",
+      "image": "Nilou.png"
+    },
+    "tokenURI": "ipfs://QmRSSUBuN3gVb8V8s3Hc41sXFWZQtb9juiRQ39ctfRx9o9"
+  },
+  {
+    "character": {
+      "id": 55,
+      "name": "Ningguang",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Ningguang.png"
+    },
+    "tokenURI": "ipfs://QmUGYyRgcp1PeNpxKviimcqHQz7dwKksFwbHR4v4fYb95B"
+  },
+  {
+    "character": {
+      "id": 56,
+      "name": "Ningguang Animated",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Ningguang_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmQnZGcgCNmi8Qz3hhd3X8xmGiKzfecrt87f9vjtzwRUqX"
+  },
+  {
+    "character": {
+      "id": 57,
+      "name": "Noelle",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Noelle.png"
+    },
+    "tokenURI": "ipfs://QmPdgnAUAxS7aS8DikuB7wqxA5KYFPLavpyNtUdDA6Wx4K"
+  },
+  {
+    "character": {
+      "id": 58,
+      "name": "Noelle Animated",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Noelle_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmQhUF8dFhLvDQCJ6NgB3AnKYrCfZ4P7255K6xEnYoNgs8"
+  },
+  {
+    "character": {
+      "id": 59,
+      "name": "Qiqi",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Qiqi.png"
+    },
+    "tokenURI": "ipfs://QmePseCQUwJqNebpGmr4d7dpqF5zkaRWvSQbEHbebyHn33"
+  },
+  {
+    "character": {
+      "id": 60,
+      "name": "Raiden Shogun",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "faction": "Inazuma",
+      "image": "Raiden Shogun.png"
+    },
+    "tokenURI": "ipfs://QmcWpMxZ5w5LzfCZGxijnbXrMF6vKxxPr29MBbFfz1KajE"
+  },
+  {
+    "character": {
+      "id": 61,
+      "name": "Razor",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Razor.png"
+    },
+    "tokenURI": "ipfs://QmUiDpFh6r1Gay5P5uJgVzn15YuAj4kQbC19bCAMSvFnPb"
+  },
+  {
+    "character": {
+      "id": 62,
+      "name": "Razor Animated",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "faction": "Mondstadt",
+      "image": "Razor_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmVhXewU3wdFKmiG1pkQ3to8mETNxyHbF8bgUbJUGmBy4B"
+  },
+  {
+    "character": {
+      "id": 63,
+      "name": "Sangonomiya Kokomi",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Sangonomiya Kokomi.png"
+    },
+    "tokenURI": "ipfs://QmVDjNJqLK6Z91XaK94Ru6M2pHyFhc58F4D8pQKrZJLi49"
+  },
+  {
+    "character": {
+      "id": 64,
+      "name": "Sangonomiya Kokomi Animated",
+      "rarity": 6,
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Sangonomiya Kokomi_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmU8VWHwPMNJb2EEmfDMGV4m1L3TVwr14xZ9gg9TdS6h48"
+  },
+  {
+    "character": {
+      "id": 65,
+      "name": "Sayu",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Claymore",
+      "faction": "Inazuma",
+      "image": "Sayu.png"
+    },
+    "tokenURI": "ipfs://QmS2egLSuBBJd3sS2zWygAwQgJXszC7sEmVsn2xsaSxubX"
+  },
+  {
+    "character": {
+      "id": 66,
+      "name": "Shenhe",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Shenhe.png"
+    },
+    "tokenURI": "ipfs://QmawYkTuLwHNYENnGTkuNjFGXNU2bkToxq4GzbfsQkMKow"
+  },
+  {
+    "character": {
+      "id": 67,
+      "name": "Sucrose",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Sucrose.png"
+    },
+    "tokenURI": "ipfs://QmUV9yogzm2BXH9t5YUthFYWyzbQr84pdnEH4QhefHgbYG"
+  },
+  {
+    "character": {
+      "id": 68,
+      "name": "Sucrose Animated",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Mondstadt",
+      "image": "Sucrose_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmdGW8ZF574rtsuw3KDWrTRkaVt37cPPMVcMowb48SM41j"
+  },
+  {
+    "character": {
+      "id": 69,
+      "name": "Tartaglia",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Bow",
+      "faction": "Fatui",
+      "image": "Tartaglia.png"
+    },
+    "tokenURI": "ipfs://QmRWTzWBwA2jK6FQmS9LujZ6z1iTrkwnd3TU6UaNfREW2W"
+  },
+  {
+    "character": {
+      "id": 70,
+      "name": "Thoma",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Inazuma",
+      "image": "Thoma.png"
+    },
+    "tokenURI": "ipfs://Qme78FsmQTq2JsMff98cdof62BhiUtE7851wkijE9Cipzn"
+  },
+  {
+    "character": {
+      "id": 71,
+      "name": "Tighnari",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "faction": "Sumeru",
+      "image": "Tighnari.png"
+    },
+    "tokenURI": "ipfs://QmTF781Mutzm3SpJ357jMFaxv31sMtwDytRdpvRaVS8AQW"
+  },
+  {
+    "character": {
+      "id": 72,
+      "name": "Venti",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Bow",
+      "faction": "Mondstadt",
+      "image": "Venti.png"
+    },
+    "tokenURI": "ipfs://QmQc5Fj5oRXhc6spn2ooraXzEn8yiMqk5cyBuTriThwmCP"
+  },
+  {
+    "character": {
+      "id": 73,
+      "name": "Wanderer",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "",
+      "image": "Wanderer.png"
+    },
+    "tokenURI": "ipfs://QmdSgdMEh3ExPqF1KW3F98qjT3YBH8EvTjdmHfYqMzGKUY"
+  },
+  {
+    "character": {
+      "id": 74,
+      "name": "Wriothesley",
+      "rarity": 5,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Wriothesley.png"
+    },
+    "tokenURI": "ipfs://QmVQk7SRCWcJoe1L44Cf2ximb1fSVAtGuy6XCT4gXfrVGh"
+  },
+  {
+    "character": {
+      "id": 75,
+      "name": "Wriothesley Animated",
+      "rarity": 6,
+      "element": "Cryo",
+      "weapon": "Catalyst",
+      "faction": "Fontaine",
+      "image": "Wriothesley Dynamic Skin.gif"
+    },
+    "tokenURI": "ipfs://Qmf8j1kGpp9w74sieUhgTpAfYLjYwFdYA2LY41iLkqZRv2"
+  },
+  {
+    "character": {
+      "id": 76,
+      "name": "Xiangling",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiangling.png"
+    },
+    "tokenURI": "ipfs://QmTnFzR6KAfsDnBhJEJegAEUY54LtbxgXwxF9ZkH7E9SqF"
+  },
+  {
+    "character": {
+      "id": 77,
+      "name": "Xiangling Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiangling_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmW91gG8DbSSvizi79NpDCu9wETpBM5eF2vScx2WLTXe5L"
+  },
+  {
+    "character": {
+      "id": 78,
+      "name": "Xianyun",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Xianyun.png"
+    },
+    "tokenURI": "ipfs://QmbtLrtphav33MrGdJCPCAE6BvKJZq6XGVtHyxKjg98hHQ"
+  },
+  {
+    "character": {
+      "id": 79,
+      "name": "Xianyun Animated",
+      "rarity": 6,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Xianyun Dynamic Skin.gif"
+    },
+    "tokenURI": "ipfs://QmfCmGT7Me9Cz6rgh3pvzYJzTCq7ijNyHAiXggcDH4jCA6"
+  },
+  {
+    "character": {
+      "id": 80,
+      "name": "Xiao",
+      "rarity": 5,
+      "element": "Anemo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Xiao.png"
+    },
+    "tokenURI": "ipfs://QmQMTon8MNzChuP9ZDGQy2ehBvxnS4ekj4oZQXhTp9e32t"
+  },
+  {
+    "character": {
+      "id": 81,
+      "name": "Xingqiu",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Xingqiu.png"
+    },
+    "tokenURI": "ipfs://QmU6KpkDZxPp9nmZT5mvHZkvQmPCyh28nAgk4pmbGPJiMM"
+  },
+  {
+    "character": {
+      "id": 82,
+      "name": "Xingqiu Animated",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Sword",
+      "faction": "Liyue",
+      "image": "Xingqiu_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmRcHtHBdfPcTBF2pXzois2kwxWSCtVHgtsqpKNqBZCbCD"
+  },
+  {
+    "character": {
+      "id": 83,
+      "name": "Xinyan",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Xinyan.png"
+    },
+    "tokenURI": "ipfs://QmXX6qdtxJ5M2YnCw1VsZ7QyQ6FBrwm7UsgrjXn2irbDt8"
+  },
+  {
+    "character": {
+      "id": 84,
+      "name": "Xinyan Animated",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "faction": "Liyue",
+      "image": "Xinyan_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmNr2QckQmpvBbJBz46skDAU7Strv5fnm9nKHt3AJ8HTPt"
+  },
+  {
+    "character": {
+      "id": 85,
+      "name": "Yae Miko",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Catalyst",
+      "faction": "Inazuma",
+      "image": "Yae Miko.png"
+    },
+    "tokenURI": "ipfs://QmWdkcA7befN3HcaTdXCJsFVXDnPXvie3tSKnjsx2dSH7f"
+  },
+  {
+    "character": {
+      "id": 86,
+      "name": "Yanfei",
+      "rarity": 4,
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "faction": "Liyue",
+      "image": "Yanfei.png"
+    },
+    "tokenURI": "ipfs://QmdSiFQdNZSXpKNWAmHbJ59qeqR24297xPLoHdHEgfMZJV"
+  },
+  {
+    "character": {
+      "id": 87,
+      "name": "Yaoyao",
+      "rarity": 4,
+      "element": "Dendro",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Yaoyao.png"
+    },
+    "tokenURI": "ipfs://QmevSTmSbgnywdcEHa26wTMqxDiNU3LBJBzHTPXG8At4P5"
+  },
+  {
+    "character": {
+      "id": 88,
+      "name": "Yelan",
+      "rarity": 5,
+      "element": "Hydro",
+      "weapon": "Bow",
+      "faction": "Liyue",
+      "image": "Yelan.png"
+    },
+    "tokenURI": "ipfs://QmPVMZkdy3oxNVQjequwUaEHeaQE5HWXmKEHgV2sC2wZrC"
+  },
+  {
+    "character": {
+      "id": 89,
+      "name": "Yoimiya",
+      "rarity": 5,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Yoimiya.png"
+    },
+    "tokenURI": "ipfs://QmR4AXgHgLZgNfJzBjpwrWvPjQb3vuCzBYAPDpgtBLVBHS"
+  },
+  {
+    "character": {
+      "id": 90,
+      "name": "Yoimiya Animated",
+      "rarity": 6,
+      "element": "Pyro",
+      "weapon": "Bow",
+      "faction": "Inazuma",
+      "image": "Yoimiya_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmVu7DrD16wbsgptpdfiyYj8LRz1nEMULDbCUShfTNxPDs"
+  },
+  {
+    "character": {
+      "id": 91,
+      "name": "Yun Jin",
+      "rarity": 4,
+      "element": "Geo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Yunjin.png"
+    },
+    "tokenURI": "ipfs://QmaP5xBDkHYTmr4ezHVzLc692z7AtAUVnCz6r2jyc1KAVi"
+  },
+  {
+    "character": {
+      "id": 92,
+      "name": "Yun Jin Animated",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Yunjin_dynamic skin.gif"
+    },
+    "tokenURI": "ipfs://QmXAyvJiWTe5ZjAQ5X4Qes4vvqfHUfSkvJeBWCsL2N6kLm"
+  },
+  {
+    "character": {
+      "id": 93,
+      "name": "Zhongli",
+      "rarity": 5,
+      "element": "Geo",
+      "weapon": "Polearm",
+      "faction": "Liyue",
+      "image": "Zhongli.png"
+    },
+    "tokenURI": "ipfs://QmSwMZ6EoH74nV4ioLAHgvxevZU29hvA3uqQPpXn4QaWiZ"
+  }
+]
