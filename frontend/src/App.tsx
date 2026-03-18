@@ -6,7 +6,6 @@ import Gacha from "./Gacha";
 import Collection from "./components/Collection";
 import Marketplace from "./components/Marketplace";
 import Create from "./components/Create";
-import dinoCoinLogo from "../images/dinoCoinLogo.png";
 import "./App.css";
 
 function App() {
@@ -52,7 +51,7 @@ function App() {
           <div className="flex justify-center relative">
             <div className="relative w-full h-screen overflow-hidden video-wrapper">
               <video
-                src="images/Invocation.mp4"
+                src="/images/Invocation.mp4"
                 autoPlay
                 muted
                 loop
@@ -70,7 +69,7 @@ function App() {
           <>
             <header className="sticky top-0 z-50 flex justify-between items-center bg-black bg-opacity-50 p-3 rounded-lg">
               <img
-                src={dinoCoinLogo}
+                src="/images/dinoCoinLogo.png"
                 alt="Dino Coin Logo"
                 className="w-16 h-16 rounded-full border-2 border-yellow-400"
               />

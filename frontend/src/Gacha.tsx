@@ -142,16 +142,16 @@ function Gacha({ account, web3 }: GachaProps) {
       let animation: string;
       switch (newItem.rarity) {
         case 6:
-          animation = "images/gacha/radiance-multi.mp4";
+          animation = "/images/gacha/radiance-multi.mp4";
           break;
         case 5:
-          animation = "images/gacha/5star-single.mp4";
+          animation = "/images/gacha/5star-single.mp4";
           break;
         case 4:
-          animation = "images/gacha/4star-single.mp4";
+          animation = "/images/gacha/4star-single.mp4";
           break;
         default:
-          animation = "images/gacha/3star-single.mp4";
+          animation = "/images/gacha/3star-single.mp4";
       }
 
       // Play the animation
@@ -185,9 +185,9 @@ function Gacha({ account, web3 }: GachaProps) {
       // Set animation based on highest rarity
       let animation: string;
       if (highestRarity >= 5) {
-        animation = "images/gacha/5star-multi.mp4";
+        animation = "/images/gacha/5star-multi.mp4";
       } else {
-        animation = "images/gacha/4star-multi.mp4";
+        animation = "/images/gacha/4star-multi.mp4";
       }
 
       // Play the animation
@@ -213,14 +213,14 @@ function Gacha({ account, web3 }: GachaProps) {
   return (
     <div className="flex flex-col justify-center">
       <img
-        src="images/landing.png"
+        src="/images/landing.png"
         alt="Landing"
         className="w-full h-auto"
       />
 
       <div className="relative w-full h-screen overflow-hidden video-wrapper">
         <video
-          src="images/ROLL.mp4"
+          src="/images/ROLL.mp4"
           autoPlay
           muted
           loop
