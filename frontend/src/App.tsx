@@ -12,7 +12,7 @@ function App() {
   
   const [account, setAccount] = useState<string | null>(null);
   const [web3, setWeb3] = useState<Web3 | null>(null);
-  const [dinoCoins] = useState(20);
+  const [ethBalance, setEthBalance] = useState<string>("0");
 
   useEffect(() => {
     async function loadWeb3() {
@@ -29,6 +29,16 @@ function App() {
     }
     loadWeb3();
   }, []);
+
+  useEffect(() => {
+    async function fetchBalance() {
+      if (web3 && account) {
+        const newBalance = await web3.eth.getBalance(account);
+        setEthBalance(Number(web3.utils.fromWei(newBalance, "ether")).toFixed(4));
+      }
+    }
+    fetchBalance();
+  }, [web3, account]);
 
   const connectWallet = async () => {
     if (web3 && window.ethereum) {
@@ -74,12 +84,12 @@ function App() {
                 className="w-16 h-16 rounded-full border-2 border-yellow-400"
               />
               <h1 className="text-yellow-400 text-3xl font-extrabold tracking-wider">
-                DinoNFT Gacha
+                Invocation NFT
               </h1>
               <div className="flex items-center space-x-4">
                 <div className="bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold px-4 py-2 rounded-full flex items-center">
                   <Coins className="w-5 h-5 mr-2" />
-                  <span>{dinoCoins}</span>
+                  <span>{ethBalance} ETH</span>
                 </div>
                 <button
                   onClick={connectWallet}
