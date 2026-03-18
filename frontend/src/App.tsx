@@ -92,7 +92,8 @@ function App() {
                   <span>{ethBalance} ETH</span>
                 </div>
                 <button
-                  onClick={connectWallet}
+                  onClick={() => account ? navigator.clipboard.writeText(account) : connectWallet()}
+                  title={account ?? undefined}
                   className="bg-gradient-to-r from-pink-500 to-purple-600 text-white px-4 py-2 rounded-full hover:from-pink-600 hover:to-purple-700 transition duration-300"
                 >
                   {account
