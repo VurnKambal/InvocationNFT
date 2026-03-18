@@ -4,8 +4,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 import pinataSDK from '@pinata/sdk';
-import { characters } from '../new2/src/data/characters.js';
-import { items } from '../new2/src/data/items.js';
+import { characters } from '../frontend/src/data/characters.js';
+import { items } from '../frontend/src/data/items.js';
 
 dotenv.config();
 
