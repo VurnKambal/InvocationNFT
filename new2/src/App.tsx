@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Web3 from "web3";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
-import { Sparkles, ShoppingCart, Coins, PlusCircle } from "lucide-react";
+import { ShoppingCart, Coins, PlusCircle } from "lucide-react";
 import Gacha from "./Gacha";
 import Collection from "./components/Collection";
 import Marketplace from "./components/Marketplace";
@@ -13,7 +13,7 @@ function App() {
   
   const [account, setAccount] = useState<string | null>(null);
   const [web3, setWeb3] = useState<Web3 | null>(null);
-  const [dinoCoins, setDinoCoins] = useState(20);
+  const [dinoCoins] = useState(20);
 
   useEffect(() => {
     async function loadWeb3() {
@@ -21,7 +21,7 @@ function App() {
         const web3Instance = new Web3(window.ethereum);
         setWeb3(web3Instance);
         try {
-          const accounts = await window.ethereum.request({ method: "eth_requestAccounts" });
+          const accounts = await window.ethereum.request({ method: "eth_requestAccounts" }) as string[];
           setAccount(accounts[0]);
         } catch (error) {
           console.error("Failed to connect wallet:", error);
@@ -32,11 +32,11 @@ function App() {
   }, []);
 
   const connectWallet = async () => {
-    if (web3) {
+    if (web3 && window.ethereum) {
       try {
         const accounts = await window.ethereum.request({
           method: "eth_requestAccounts",
-        });
+        }) as string[];
         setAccount(accounts[0]);
         console.log(accounts);
       } catch (error) {
@@ -121,7 +121,7 @@ function App() {
 
             <Routes>
               <Route path="/" element={<Gacha account={account} web3={web3} />} />
-              <Route path="/collections" element={<Collection account={account} web3={web3} />} />
+              <Route path="/collections" element={<Collection account={account} />} />
               <Route path="/marketplace" element={<Marketplace userAddress={account} onPurchase={() => {}} />} />
               <Route path="/create" element={<Create account={account} web3={web3} />} />
             </Routes>

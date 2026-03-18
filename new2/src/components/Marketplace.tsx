@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Web3 from "web3";
-import { AbiItem } from 'web3-utils';
 import { Character, Listing } from "../types";
-import { abi as GachaCollectibleABI } from '../../../artifacts/contracts/GachaCollectible.sol/GachaCollectible.json';
+import GachaCollectibleABI from '../utils/GachaCollectibleABI';
 import { Star } from "lucide-react"; // Import the Star icon
 
 const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS; // Replace with your contract address
@@ -26,7 +25,7 @@ const Marketplace: React.FC<MarketplaceProps> = ({ userAddress, onPurchase }) =>
       if (window.ethereum) {
         const web3Instance = new Web3(window.ethereum);
         setWeb3(web3Instance);
-        const contractInstance = new web3Instance.eth.Contract(GachaCollectibleABI as AbiItem[], CONTRACT_ADDRESS);
+        const contractInstance = new web3Instance.eth.Contract(GachaCollectibleABI, CONTRACT_ADDRESS);
         setContract(contractInstance);
 
         await window.ethereum.request({ method: "eth_requestAccounts" });

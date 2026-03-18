@@ -3,8 +3,7 @@ import React, { useState, useEffect } from "react";
 import { Character, Item, Metadata } from "../types"; // Adjust the import based on your project structure
 import GachaCard from "./GachaCard"; // Import GachaCard from components
 import Web3 from "web3";
-import { AbiItem } from 'web3-utils';
-import { abi as GachaCollectibleABI } from '../../../artifacts/contracts/GachaCollectible.sol/GachaCollectible.json';
+import GachaCollectibleABI from '../utils/GachaCollectibleABI';
 import axios from 'axios';
 
 const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS;
@@ -16,7 +15,18 @@ interface CollectionProps {
   account: string | null;
 }
 
-type CollectionItem = (Character | Item) & { isListed?: boolean; price?: string };
+interface CollectionItem {
+  id: number;
+  name: string;
+  rarity: number;
+  image: string;
+  category: string;
+  element?: string;
+  weapon?: string;
+  faction?: string;
+  isListed?: boolean;
+  price?: string;
+}
 
 const Collection: React.FC<CollectionProps> = ({ account }) => {
   const [collection, setCollection] = useState<CollectionItem[]>([]);
@@ -32,7 +42,7 @@ const Collection: React.FC<CollectionProps> = ({ account }) => {
       if (window.ethereum && account) {
         const web3Instance = new Web3(window.ethereum);
         setWeb3(web3Instance);
-        const contractInstance = new web3Instance.eth.Contract(GachaCollectibleABI as AbiItem[], CONTRACT_ADDRESS);
+        const contractInstance = new web3Instance.eth.Contract(GachaCollectibleABI, CONTRACT_ADDRESS);
         setContract(contractInstance);
         
       }
@@ -81,15 +91,12 @@ const Collection: React.FC<CollectionProps> = ({ account }) => {
             image: metadata.image.replace('ipfs://', PINATA_GATEWAY_URL),
             isListed,
             price,
-            ...(isCharacter
-              ? {
-                  element: getAttribute('Element'),
-                  weapon: getAttribute('Weapon'),
-                  faction: getAttribute('Faction'),
-                }
-              : {
-                  category: getAttribute('Category'),
-                }),
+            category: getAttribute('Category'),
+            ...(isCharacter ? {
+              element: getAttribute('Element'),
+              weapon: getAttribute('Weapon'),
+              faction: getAttribute('Faction'),
+            } : {}),
           };
 
           return item;
@@ -187,11 +194,7 @@ const Collection: React.FC<CollectionProps> = ({ account }) => {
         ) : (
           collection.map((item) => (
             <div key={item.id} className="relative group">
-              <GachaCard 
-                item={item} 
-                isListed={item.isListed} 
-                price={item.price}
-              />
+              <GachaCard item={item as Character | Item} />
               <button
                 onClick={() => openSellDialog(item)}
                 className="absolute bottom-4 right-4 bg-yellow-400 text-black px-2 py-1 rounded hover:bg-yellow-500 transition duration-300 opacity-0 group-hover:opacity-100"

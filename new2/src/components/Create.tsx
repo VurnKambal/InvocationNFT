@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
-import { AbiItem } from 'web3-utils';
-import { abi as GachaCollectibleABI } from '../../../artifacts/contracts/GachaCollectible.sol/GachaCollectible.json';
+import GachaCollectibleABI from '../utils/GachaCollectibleABI';
 import { pinata } from '../utils/config';
 const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
 
@@ -26,7 +25,7 @@ const Create: React.FC<CreateProps> = ({ account, web3 }) => {
 
   useEffect(() => {
     if (web3) {
-      const contractInstance = new web3.eth.Contract(GachaCollectibleABI as AbiItem[], CONTRACT_ADDRESS);
+      const contractInstance = new web3.eth.Contract(GachaCollectibleABI, CONTRACT_ADDRESS);
       setContract(contractInstance);
     }
   }, [web3]);
@@ -137,8 +136,8 @@ const Create: React.FC<CreateProps> = ({ account, web3 }) => {
       }
     } catch (error) {
       console.error('Error creating NFT:', error);
-      if (error.receipt) {
-        console.error("Transaction receipt:", error.receipt);
+      if ((error as any).receipt) {
+        console.error("Transaction receipt:", (error as any).receipt);
       }
       alert('Failed to create NFT. Please try again.');
     } finally {

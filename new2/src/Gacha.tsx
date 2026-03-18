@@ -1,10 +1,9 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import Web3 from "web3";
-import { AbiItem } from 'web3-utils';
 import { Sparkles } from "lucide-react";
 import GachaCard from "./components/GachaCard";
 import { Character, Item, Metadata } from "./types";
-import { abi as GachaCollectibleABI } from '../../artifacts/contracts/GachaCollectible.sol/GachaCollectible.json';
+import GachaCollectibleABI from './utils/GachaCollectibleABI';
 import axios from 'axios';
 
 const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS;
@@ -30,7 +29,7 @@ function Gacha({ account, web3 }: GachaProps) {
 
   useEffect(() => {
     if (web3) {
-      const contractInstance = new web3.eth.Contract(GachaCollectibleABI as AbiItem[], CONTRACT_ADDRESS);
+      const contractInstance = new web3.eth.Contract(GachaCollectibleABI, CONTRACT_ADDRESS);
       setContract(contractInstance);
     }
   }, [web3]);
@@ -97,21 +96,27 @@ function Gacha({ account, web3 }: GachaProps) {
 
       const isCharacter = getAttribute('Element') !== 'Unknown';
 
-      const item: PulledItem = {
-        id: Number(tokenId),
-        name: metadata.name || `Item #${tokenId}`,
-        rarity: Number(rarity) + 1,
-        image: metadata.image.replace('ipfs://', PINATA_GATEWAY_URL),
-        ...(isCharacter
-          ? {
-              element: getAttribute('Element'),
-              weapon: getAttribute('Weapon'),
-              faction: getAttribute('Faction'),
-            }
-          : {
-              category: getAttribute('Category'),
-            }),
-      };
+      let item: PulledItem;
+      if (isCharacter) {
+        item = {
+          id: Number(tokenId),
+          name: metadata.name || `Item #${tokenId}`,
+          rarity: Number(rarity) + 1,
+          image: metadata.image.replace('ipfs://', PINATA_GATEWAY_URL),
+          category: getAttribute('Category'),
+          element: getAttribute('Element'),
+          weapon: getAttribute('Weapon'),
+          faction: getAttribute('Faction'),
+        };
+      } else {
+        item = {
+          id: Number(tokenId),
+          name: metadata.name || `Item #${tokenId}`,
+          rarity: Number(rarity) + 1,
+          image: metadata.image.replace('ipfs://', PINATA_GATEWAY_URL),
+          category: getAttribute('Category'),
+        };
+      }
 
       return item;
     } catch (error) {
