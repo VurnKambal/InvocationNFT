@@ -31,7 +31,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const file = Array.isArray(files.file) ? files.file[0] : files.file;
     if (!file) return res.status(400).json({ error: 'No file provided' });
 
-    const blob = new Blob([fs.readFileSync(file.filepath)], {
+    const buf = fs.readFileSync(file.filepath);
+    const blob = new Blob([new Uint8Array(buf)], {
       type: file.mimetype ?? 'application/octet-stream',
     });
     const namedFile = new File([blob], file.originalFilename ?? 'upload', {
