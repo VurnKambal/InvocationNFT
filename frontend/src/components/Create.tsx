@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
 import GachaCollectibleABI from '../utils/GachaCollectibleABI';
 import { GATEWAY_URL } from '../utils/config';
-const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS;
 
 interface CreateProps {
   account: string | null;
