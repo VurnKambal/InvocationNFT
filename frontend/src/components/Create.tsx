@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
 import GachaCollectibleABI from '../utils/GachaCollectibleABI';
-import { pinata } from '../utils/config';
+import { GATEWAY_URL } from '../utils/config';
 const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
 
 interface CreateProps {
@@ -37,11 +37,13 @@ const Create: React.FC<CreateProps> = ({ account, web3 }) => {
   const uploadImageToPinata = async () => {
     if (!image) return;
     try {
-      const upload = await pinata.upload.file(image);
-      console.log(upload);
-      const ipfsUrl = await pinata.gateways.convert(upload.IpfsHash);
-      setImageUrl(ipfsUrl);
-      return `ipfs://${upload.IpfsHash}`;
+      const form = new FormData();
+      form.append('file', image);
+      const res = await fetch('/api/upload', { method: 'POST', body: form });
+      if (!res.ok) throw new Error(await res.text());
+      const { IpfsHash } = await res.json();
+      setImageUrl(`${GATEWAY_URL}/ipfs/${IpfsHash}`);
+      return `ipfs://${IpfsHash}`;
     } catch (error) {
       console.error('Error uploading image to Pinata:', error);
       throw error;
@@ -50,9 +52,14 @@ const Create: React.FC<CreateProps> = ({ account, web3 }) => {
 
   const uploadMetadataToPinata = async (metadata: any) => {
     try {
-      const upload = await pinata.upload.json(metadata);
-      console.log(upload);
-      return `ipfs://${upload.IpfsHash}`;
+      const res = await fetch('/api/upload', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ metadata }),
+      });
+      if (!res.ok) throw new Error(await res.text());
+      const { IpfsHash } = await res.json();
+      return `ipfs://${IpfsHash}`;
     } catch (error) {
       console.error('Error uploading metadata to Pinata:', error);
       throw error;
